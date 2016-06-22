@@ -1,0 +1,1310 @@
+{
+  "items" : [ {
+    "track" : {
+      "album" : {
+        "name" : "Led Zeppelin II"
+      },
+      "artists" : [ {
+        "name" : "Led Zeppelin"
+      } ],
+      "duration_ms" : 263333,
+      "explicit" : false,
+      "name" : "Ramble On",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Dark Side Of The Moon (2011 Remastered Version)"
+      },
+      "artists" : [ {
+        "name" : "Pink Floyd"
+      } ],
+      "duration_ms" : 382834,
+      "explicit" : false,
+      "name" : "Money - 2011 Remastered Version",
+      "popularity" : 27
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hotel California (Remastered)"
+      },
+      "artists" : [ {
+        "name" : "Eagles"
+      } ],
+      "duration_ms" : 286219,
+      "explicit" : false,
+      "name" : "Life In The Fast Lane",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Diamond Dogs (30th Anniversary Edition)"
+      },
+      "artists" : [ {
+        "name" : "David Bowie"
+      } ],
+      "duration_ms" : 269360,
+      "explicit" : false,
+      "name" : "Rebel Rebel - 1999 Remastered Version",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best Of Motorhead: All The Aces/ The Muggers Tapes"
+      },
+      "artists" : [ {
+        "name" : "Motörhead"
+      } ],
+      "duration_ms" : 167053,
+      "explicit" : false,
+      "name" : "Ace Of Spades",
+      "popularity" : 24
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "In Search Of Space"
+      },
+      "artists" : [ {
+        "name" : "Hawkwind"
+      } ],
+      "duration_ms" : 279973,
+      "explicit" : false,
+      "name" : "Silver Machine - Original Single Version;Live At The Roundhouse London; 1996 Remastered Version",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Back In Black"
+      },
+      "artists" : [ {
+        "name" : "AC/DC"
+      } ],
+      "duration_ms" : 255493,
+      "explicit" : false,
+      "name" : "Back In Black",
+      "popularity" : 78
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Boston"
+      },
+      "artists" : [ {
+        "name" : "Boston"
+      } ],
+      "duration_ms" : 285133,
+      "explicit" : false,
+      "name" : "More Than a Feeling",
+      "popularity" : 30
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Kinks (Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "The Kinks"
+      } ],
+      "duration_ms" : 142226,
+      "explicit" : false,
+      "name" : "All Day and All of the Night",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Some Girls"
+      },
+      "artists" : [ {
+        "name" : "The Rolling Stones"
+      } ],
+      "duration_ms" : 265173,
+      "explicit" : false,
+      "name" : "Beast Of Burden - Remastered",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Combat Rock"
+      },
+      "artists" : [ {
+        "name" : "The Clash"
+      } ],
+      "duration_ms" : 188986,
+      "explicit" : false,
+      "name" : "Should I Stay or Should I Go - Remastered",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Paranoid"
+      },
+      "artists" : [ {
+        "name" : "Black Sabbath"
+      } ],
+      "duration_ms" : 355303,
+      "explicit" : false,
+      "name" : "Iron Man",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Who's Next (Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "The Who"
+      } ],
+      "duration_ms" : 511400,
+      "explicit" : false,
+      "name" : "Won't Get Fooled Again - Original Album Version",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Greatest Hits"
+      },
+      "artists" : [ {
+        "name" : "Black Sabbath"
+      } ],
+      "duration_ms" : 168440,
+      "explicit" : false,
+      "name" : "Paranoid",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Dire Straits"
+      },
+      "artists" : [ {
+        "name" : "Dire Straits"
+      } ],
+      "duration_ms" : 350400,
+      "explicit" : false,
+      "name" : "Sultans Of Swing",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Brothers And Sisters (Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "The Allman Brothers Band"
+      } ],
+      "duration_ms" : 288160,
+      "explicit" : false,
+      "name" : "Ramblin' Man",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Eliminator"
+      },
+      "artists" : [ {
+        "name" : "ZZ Top"
+      } ],
+      "duration_ms" : 258026,
+      "explicit" : false,
+      "name" : "Sharp Dressed Man (2008 Remastered LP Version)",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Who Are You (Remastered)"
+      },
+      "artists" : [ {
+        "name" : "The Who"
+      } ],
+      "duration_ms" : 378706,
+      "explicit" : false,
+      "name" : "Who Are You",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Little Queen"
+      },
+      "artists" : [ {
+        "name" : "Heart"
+      } ],
+      "duration_ms" : 261933,
+      "explicit" : false,
+      "name" : "Barracuda",
+      "popularity" : 65
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Boston"
+      },
+      "artists" : [ {
+        "name" : "Boston"
+      } ],
+      "duration_ms" : 303586,
+      "explicit" : false,
+      "name" : "Peace of Mind",
+      "popularity" : 21
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Distant Light [1999 - Remaster] (1999 Remastered Version)"
+      },
+      "artists" : [ {
+        "name" : "The Hollies"
+      } ],
+      "duration_ms" : 199200,
+      "explicit" : false,
+      "name" : "Long Cool Woman (In A Black Dress) - 1999 Remastered Version",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Marshall Tucker Band"
+      },
+      "artists" : [ {
+        "name" : "The Marshall Tucker Band"
+      } ],
+      "duration_ms" : 361226,
+      "explicit" : false,
+      "name" : "Can't You See",
+      "popularity" : 22
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Remastered Version)"
+      },
+      "artists" : [ {
+        "name" : "Queen"
+      } ],
+      "duration_ms" : 122066,
+      "explicit" : false,
+      "name" : "We Will Rock You - Remastered 2011",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Out Of Our Heads (Remastered)"
+      },
+      "artists" : [ {
+        "name" : "The Rolling Stones"
+      } ],
+      "duration_ms" : 222813,
+      "explicit" : false,
+      "name" : "(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",
+      "popularity" : 65
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Toys In The Attic"
+      },
+      "artists" : [ {
+        "name" : "Aerosmith"
+      } ],
+      "duration_ms" : 274133,
+      "explicit" : false,
+      "name" : "Sweet Emotion",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best Of The Animals"
+      },
+      "artists" : [ {
+        "name" : "The Animals"
+      } ],
+      "duration_ms" : 269720,
+      "explicit" : false,
+      "name" : "House Of The Rising Sun",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Are You Experienced"
+      },
+      "artists" : [ {
+        "name" : "Jimi Hendrix"
+      } ],
+      "duration_ms" : 210160,
+      "explicit" : false,
+      "name" : "Hey Joe",
+      "popularity" : 65
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Captain And Me"
+      },
+      "artists" : [ {
+        "name" : "The Doobie Brothers"
+      } ],
+      "duration_ms" : 197426,
+      "explicit" : false,
+      "name" : "China Grove",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Buffalo Springfield"
+      },
+      "artists" : [ {
+        "name" : "Buffalo Springfield"
+      } ],
+      "duration_ms" : 153693,
+      "explicit" : false,
+      "name" : "For What It's Worth",
+      "popularity" : 72
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Appetite For Destruction"
+      },
+      "artists" : [ {
+        "name" : "Guns N' Roses"
+      } ],
+      "duration_ms" : 356080,
+      "explicit" : false,
+      "name" : "Sweet Child O' Mine",
+      "popularity" : 75
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Reissue)"
+      },
+      "artists" : [ {
+        "name" : "Van Halen"
+      } ],
+      "duration_ms" : 216733,
+      "explicit" : false,
+      "name" : "Runnin' With The Devil",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Ted Nugent"
+      },
+      "artists" : [ {
+        "name" : "Ted Nugent"
+      } ],
+      "duration_ms" : 503066,
+      "explicit" : false,
+      "name" : "Stranglehold",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Moving Pictures (2011 Remaster)"
+      },
+      "artists" : [ {
+        "name" : "Rush"
+      } ],
+      "duration_ms" : 276880,
+      "explicit" : false,
+      "name" : "Tom Sawyer",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Electric Ladyland"
+      },
+      "artists" : [ {
+        "name" : "Jimi Hendrix"
+      } ],
+      "duration_ms" : 240800,
+      "explicit" : false,
+      "name" : "All Along the Watchtower",
+      "popularity" : 74
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Led Zeppelin"
+      },
+      "artists" : [ {
+        "name" : "Led Zeppelin"
+      } ],
+      "duration_ms" : 166266,
+      "explicit" : false,
+      "name" : "Good Times Bad Times",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Who Sings My Generation"
+      },
+      "artists" : [ {
+        "name" : "The Who"
+      } ],
+      "duration_ms" : 198866,
+      "explicit" : false,
+      "name" : "My Generation",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Sticky Fingers (Deluxe)"
+      },
+      "artists" : [ {
+        "name" : "The Rolling Stones"
+      } ],
+      "duration_ms" : 228666,
+      "explicit" : false,
+      "name" : "Brown Sugar - Remastered",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Wheels Of Fire (Remastered)"
+      },
+      "artists" : [ {
+        "name" : "Cream"
+      } ],
+      "duration_ms" : 303200,
+      "explicit" : false,
+      "name" : "White Room",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling"
+      },
+      "artists" : [ {
+        "name" : "The Yardbirds"
+      } ],
+      "duration_ms" : 147893,
+      "explicit" : false,
+      "name" : "Heart Full of Soul",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tommy (Remastered 2013 Super Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "The Who"
+      } ],
+      "duration_ms" : 180943,
+      "explicit" : false,
+      "name" : "Pinball Wizard",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Willy And The Poor Boys (40th Anniversary Edition)"
+      },
+      "artists" : [ {
+        "name" : "Creedence Clearwater Revival"
+      } ],
+      "duration_ms" : 166280,
+      "explicit" : false,
+      "name" : "Down On The Corner",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Blowin' Your Mind!"
+      },
+      "artists" : [ {
+        "name" : "Van Morrison"
+      } ],
+      "duration_ms" : 183306,
+      "explicit" : false,
+      "name" : "Brown Eyed Girl",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Point Of Know Return"
+      },
+      "artists" : [ {
+        "name" : "Kansas"
+      } ],
+      "duration_ms" : 206266,
+      "explicit" : false,
+      "name" : "Dust in the Wind",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hot Rocks (1964-1971) [Remastered]"
+      },
+      "artists" : [ {
+        "name" : "The Rolling Stones"
+      } ],
+      "duration_ms" : 179386,
+      "explicit" : false,
+      "name" : "Honky Tonk Women",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Rumours"
+      },
+      "artists" : [ {
+        "name" : "Fleetwood Mac"
+      } ],
+      "duration_ms" : 218400,
+      "explicit" : false,
+      "name" : "Go Your Own Way",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Kinks (Super Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "The Kinks"
+      } ],
+      "duration_ms" : 133933,
+      "explicit" : false,
+      "name" : "You Really Got Me",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Long Versions - Part One"
+      },
+      "artists" : [ {
+        "name" : "Golden Earring"
+      } ],
+      "duration_ms" : 386706,
+      "explicit" : false,
+      "name" : "Radar Love",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Best of the Doobies"
+      },
+      "artists" : [ {
+        "name" : "The Doobie Brothers"
+      } ],
+      "duration_ms" : 258159,
+      "explicit" : false,
+      "name" : "Black Water (45 Version)",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "L.A. Woman"
+      },
+      "artists" : [ {
+        "name" : "The Doors"
+      } ],
+      "duration_ms" : 198466,
+      "explicit" : false,
+      "name" : "Love Her Madly",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "(Pronounced 'Leh-'Nérd 'Skin-'Nérd) [Expanded Edition]"
+      },
+      "artists" : [ {
+        "name" : "Lynyrd Skynyrd"
+      } ],
+      "duration_ms" : 270293,
+      "explicit" : false,
+      "name" : "Gimme Three Steps",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Boston"
+      },
+      "artists" : [ {
+        "name" : "Boston"
+      } ],
+      "duration_ms" : 467640,
+      "explicit" : false,
+      "name" : "Foreplay / Long Time",
+      "popularity" : 19
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Rumours"
+      },
+      "artists" : [ {
+        "name" : "Fleetwood Mac"
+      } ],
+      "duration_ms" : 271000,
+      "explicit" : false,
+      "name" : "The Chain",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bad Company"
+      },
+      "artists" : [ {
+        "name" : "Bad Company"
+      } ],
+      "duration_ms" : 287040,
+      "explicit" : false,
+      "name" : "Bad Company (Remastered Album Version)",
+      "popularity" : 22
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Long Road Home - The Ultimate John Fogerty / Creedence Collection"
+      },
+      "artists" : [ {
+        "name" : "Creedence Clearwater Revival"
+      } ],
+      "duration_ms" : 138053,
+      "explicit" : false,
+      "name" : "Fortunate Son",
+      "popularity" : 23
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "American Woman"
+      },
+      "artists" : [ {
+        "name" : "The Guess Who"
+      } ],
+      "duration_ms" : 307493,
+      "explicit" : false,
+      "name" : "American Woman - Remastered",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Fire And Water (Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "Free"
+      } ],
+      "duration_ms" : 332906,
+      "explicit" : false,
+      "name" : "All Right Now",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "You Can't Argue With A Sick Mind"
+      },
+      "artists" : [ {
+        "name" : "Joe Walsh"
+      } ],
+      "duration_ms" : 460760,
+      "explicit" : false,
+      "name" : "Rocky Mountain Way",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Leftoverture"
+      },
+      "artists" : [ {
+        "name" : "Kansas"
+      } ],
+      "duration_ms" : 323000,
+      "explicit" : false,
+      "name" : "Carry on Wayward Son",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Dreamboat Annie"
+      },
+      "artists" : [ {
+        "name" : "Heart"
+      } ],
+      "duration_ms" : 293440,
+      "explicit" : false,
+      "name" : "Crazy On You",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "But Seriously, Folks..."
+      },
+      "artists" : [ {
+        "name" : "Joe Walsh"
+      } ],
+      "duration_ms" : 536226,
+      "explicit" : false,
+      "name" : "Life's Been Good",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Game (Deluxe Remastered Version)"
+      },
+      "artists" : [ {
+        "name" : "Queen"
+      } ],
+      "duration_ms" : 214653,
+      "explicit" : false,
+      "name" : "Another One Bites The Dust",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Agents of Fortune"
+      },
+      "artists" : [ {
+        "name" : "Blue Öyster Cult"
+      } ],
+      "duration_ms" : 308440,
+      "explicit" : false,
+      "name" : "(Don't Fear) The Reaper",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Joker"
+      },
+      "artists" : [ {
+        "name" : "Steve Miller Band"
+      } ],
+      "duration_ms" : 264503,
+      "explicit" : false,
+      "name" : "The Joker",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tres Hombres [Expanded & Remastered]"
+      },
+      "artists" : [ {
+        "name" : "ZZ Top"
+      } ],
+      "duration_ms" : 230480,
+      "explicit" : false,
+      "name" : "La Grange - 2005 Remastered Version",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Aerosmith's Greatest Hits"
+      },
+      "artists" : [ {
+        "name" : "Aerosmith"
+      } ],
+      "duration_ms" : 211026,
+      "explicit" : false,
+      "name" : "Walk This Way",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Darjeeling Limited (Original Soundtrack)"
+      },
+      "artists" : [ {
+        "name" : "The Kinks"
+      } ],
+      "duration_ms" : 200053,
+      "explicit" : false,
+      "name" : "Strangers",
+      "popularity" : 17
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Very Best Of The Moody Blues"
+      },
+      "artists" : [ {
+        "name" : "The Moody Blues"
+      }, {
+        "name" : "London Festival Orchestra"
+      }, {
+        "name" : "Peter Knight"
+      } ],
+      "duration_ms" : 265626,
+      "explicit" : false,
+      "name" : "Nights In White Satin - Single Version",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture) (Remastered)"
+      },
+      "artists" : [ {
+        "name" : "Bob Dylan"
+      } ],
+      "duration_ms" : 149880,
+      "explicit" : false,
+      "name" : "Knockin' On Heaven's Door - Remastered",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Disraeli Gears (Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "Cream"
+      } ],
+      "duration_ms" : 250400,
+      "explicit" : false,
+      "name" : "Sunshine Of Your Love",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Greatest Hits"
+      },
+      "artists" : [ {
+        "name" : "Guns N' Roses"
+      } ],
+      "duration_ms" : 271866,
+      "explicit" : false,
+      "name" : "Welcome To The Jungle",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Cheap Thrills"
+      },
+      "artists" : [ {
+        "name" : "Big Brother & The Holding Company"
+      }, {
+        "name" : "Janis Joplin"
+      } ],
+      "duration_ms" : 253333,
+      "explicit" : false,
+      "name" : "Piece of My Heart",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Pendulum (40th Anniversary Edition)"
+      },
+      "artists" : [ {
+        "name" : "Creedence Clearwater Revival"
+      } ],
+      "duration_ms" : 160133,
+      "explicit" : false,
+      "name" : "Have You Ever Seen The Rain?",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Steppenwolf"
+      },
+      "artists" : [ {
+        "name" : "Steppenwolf"
+      } ],
+      "duration_ms" : 210373,
+      "explicit" : false,
+      "name" : "Born To Be Wild",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Slowhand 35th Anniversary"
+      },
+      "artists" : [ {
+        "name" : "Eric Clapton"
+      } ],
+      "duration_ms" : 221640,
+      "explicit" : false,
+      "name" : "Cocaine",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Greatest Hits"
+      },
+      "artists" : [ {
+        "name" : "The Who"
+      } ],
+      "duration_ms" : 223333,
+      "explicit" : false,
+      "name" : "Behind Blue Eyes - Original Album Version",
+      "popularity" : 18
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Doors"
+      },
+      "artists" : [ {
+        "name" : "The Doors"
+      } ],
+      "duration_ms" : 145866,
+      "explicit" : false,
+      "name" : "Break On Through (To The Other Side)",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Born To Be Wild: A Retrospective"
+      },
+      "artists" : [ {
+        "name" : "Steppenwolf"
+      } ],
+      "duration_ms" : 260240,
+      "explicit" : false,
+      "name" : "Magic Carpet Ride",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Who's Next (Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "The Who"
+      } ],
+      "duration_ms" : 300400,
+      "explicit" : false,
+      "name" : "Baba O'Riley - Original Album Version",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Layla And Other Assorted Love Songs (40th Anniversary / 2010 Remastered)"
+      },
+      "artists" : [ {
+        "name" : "Derek & The Dominos"
+      } ],
+      "duration_ms" : 423840,
+      "explicit" : false,
+      "name" : "Layla - 40th Anniversary / 2010 Remastered",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Escape"
+      },
+      "artists" : [ {
+        "name" : "Journey"
+      } ],
+      "duration_ms" : 250986,
+      "explicit" : false,
+      "name" : "Don't Stop Believin'",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Idlewild South"
+      },
+      "artists" : [ {
+        "name" : "The Allman Brothers Band"
+      } ],
+      "duration_ms" : 179933,
+      "explicit" : false,
+      "name" : "Midnight Rider",
+      "popularity" : 18
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (2011 Remaster)"
+      },
+      "artists" : [ {
+        "name" : "Queen"
+      } ],
+      "duration_ms" : 354320,
+      "explicit" : false,
+      "name" : "Bohemian Rhapsody - Remastered 2011",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Appetite For Destruction"
+      },
+      "artists" : [ {
+        "name" : "Guns N' Roses"
+      } ],
+      "duration_ms" : 408906,
+      "explicit" : false,
+      "name" : "Paradise City",
+      "popularity" : 72
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Singles 1965-1967"
+      },
+      "artists" : [ {
+        "name" : "The Rolling Stones"
+      } ],
+      "duration_ms" : 224133,
+      "explicit" : false,
+      "name" : "Paint It Black",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "(Pronounced 'Leh-'Nérd 'Skin-'Nérd) [Expanded Edition]"
+      },
+      "artists" : [ {
+        "name" : "Lynyrd Skynyrd"
+      } ],
+      "duration_ms" : 357933,
+      "explicit" : false,
+      "name" : "Simple Man",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Crosby, Stills & Nash [with Bonus Tracks]"
+      },
+      "artists" : [ {
+        "name" : "Crosby, Stills & Nash"
+      } ],
+      "duration_ms" : 444053,
+      "explicit" : false,
+      "name" : "Suite: Judy Blue Eyes - Remastered",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Let It Bleed"
+      },
+      "artists" : [ {
+        "name" : "The Rolling Stones"
+      } ],
+      "duration_ms" : 270773,
+      "explicit" : false,
+      "name" : "Gimme Shelter",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Toys In The Attic"
+      },
+      "artists" : [ {
+        "name" : "Aerosmith"
+      } ],
+      "duration_ms" : 185133,
+      "explicit" : false,
+      "name" : "Toys In The Attic",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "(Pronounced 'Leh-'Nérd 'Skin-'Nérd) [Expanded Edition]"
+      },
+      "artists" : [ {
+        "name" : "Lynyrd Skynyrd"
+      } ],
+      "duration_ms" : 558933,
+      "explicit" : false,
+      "name" : "Free Bird",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Second Helping"
+      },
+      "artists" : [ {
+        "name" : "Lynyrd Skynyrd"
+      } ],
+      "duration_ms" : 281147,
+      "explicit" : false,
+      "name" : "Sweet Home Alabama",
+      "popularity" : 72
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Green River (40th Anniversary Edition)"
+      },
+      "artists" : [ {
+        "name" : "Creedence Clearwater Revival"
+      } ],
+      "duration_ms" : 141600,
+      "explicit" : false,
+      "name" : "Bad Moon Rising",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Aerosmith"
+      },
+      "artists" : [ {
+        "name" : "Aerosmith"
+      } ],
+      "duration_ms" : 266960,
+      "explicit" : false,
+      "name" : "Dream On",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Pour Some Sugar On Me (2012)"
+      },
+      "artists" : [ {
+        "name" : "Def Leppard"
+      } ],
+      "duration_ms" : 261532,
+      "explicit" : false,
+      "name" : "Pour Some Sugar On Me (2012)",
+      "popularity" : 72
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Are You Experienced"
+      },
+      "artists" : [ {
+        "name" : "Jimi Hendrix"
+      } ],
+      "duration_ms" : 170813,
+      "explicit" : false,
+      "name" : "Purple Haze",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Born To Run"
+      },
+      "artists" : [ {
+        "name" : "Bruce Springsteen"
+      } ],
+      "duration_ms" : 269920,
+      "explicit" : false,
+      "name" : "Born to Run",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Eric Clapton (Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "Eric Clapton"
+      } ],
+      "duration_ms" : 302493,
+      "explicit" : false,
+      "name" : "Let It Rain",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Climbing!"
+      },
+      "artists" : [ {
+        "name" : "Mountain"
+      } ],
+      "duration_ms" : 151293,
+      "explicit" : false,
+      "name" : "Mississippi Queen",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Transformer"
+      },
+      "artists" : [ {
+        "name" : "Lou Reed"
+      } ],
+      "duration_ms" : 253960,
+      "explicit" : false,
+      "name" : "Walk on the Wild Side",
+      "popularity" : 29
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "American Pie"
+      },
+      "artists" : [ {
+        "name" : "Don McLean"
+      } ],
+      "duration_ms" : 516893,
+      "explicit" : false,
+      "name" : "American Pie",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Toulouse Street"
+      },
+      "artists" : [ {
+        "name" : "The Doobie Brothers"
+      } ],
+      "duration_ms" : 227266,
+      "explicit" : false,
+      "name" : "Listen To The Music",
+      "popularity" : 56
+    }
+  } ],
+  "total" : 100
+}
