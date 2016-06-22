@@ -5,7 +5,6 @@
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
-#define ntags 193
 
 //tagl::listall(); Lists all available genres and their respective ID3 tag codes.
 
