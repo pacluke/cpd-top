@@ -1,0 +1,979 @@
+{
+  "items" : [ {
+    "track" : {
+      "album" : {
+        "name" : "Music Of My Mind"
+      },
+      "artists" : [ {
+        "name" : "Stevie Wonder"
+      } ],
+      "duration_ms" : 487666,
+      "explicit" : false,
+      "name" : "Superwoman",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Love E.P."
+      },
+      "artists" : [ {
+        "name" : "Corinne Bailey Rae"
+      } ],
+      "duration_ms" : 208636,
+      "explicit" : false,
+      "name" : "Is This Love",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Acoustic Soul"
+      },
+      "artists" : [ {
+        "name" : "India.Arie"
+      } ],
+      "duration_ms" : 280733,
+      "explicit" : false,
+      "name" : "In My Head",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Brown Sugar"
+      },
+      "artists" : [ {
+        "name" : "D'Angelo"
+      } ],
+      "duration_ms" : 344893,
+      "explicit" : false,
+      "name" : "When We Get By",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Light Of The Sun"
+      },
+      "artists" : [ {
+        "name" : "Jill Scott"
+      } ],
+      "duration_ms" : 253186,
+      "explicit" : false,
+      "name" : "When I Wake Up",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Sunshine"
+      },
+      "artists" : [ {
+        "name" : "Eric Benét"
+      } ],
+      "duration_ms" : 274669,
+      "explicit" : false,
+      "name" : "Sunshine",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The SunRoom"
+      },
+      "artists" : [ {
+        "name" : "Avery*Sunshine"
+      } ],
+      "duration_ms" : 397195,
+      "explicit" : false,
+      "name" : "See You When I Get There",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Heart Of Soul Classics 2"
+      },
+      "artists" : [ {
+        "name" : "Rufus Featuring Chaka Khan"
+      } ],
+      "duration_ms" : 289666,
+      "explicit" : false,
+      "name" : "Everlasting Love",
+      "popularity" : 39
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Promise to Stay Here"
+      },
+      "artists" : [ {
+        "name" : "Kendra Foster"
+      }, {
+        "name" : "Kelvin Wooten"
+      } ],
+      "duration_ms" : 296960,
+      "explicit" : false,
+      "name" : "Promise to Stay Here",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Pieces Of Me"
+      },
+      "artists" : [ {
+        "name" : "Ledisi"
+      } ],
+      "duration_ms" : 202733,
+      "explicit" : false,
+      "name" : "Pieces Of Me",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Back To Love (Deluxe Version)"
+      },
+      "artists" : [ {
+        "name" : "Anthony Hamilton"
+      } ],
+      "duration_ms" : 226373,
+      "explicit" : false,
+      "name" : "Best of Me",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "All My People"
+      },
+      "artists" : [ {
+        "name" : "Kindred The Family Soul"
+      } ],
+      "duration_ms" : 226363,
+      "explicit" : false,
+      "name" : "All My People",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Listen"
+      },
+      "artists" : [ {
+        "name" : "Tim Bowman Jr."
+      } ],
+      "duration_ms" : 295213,
+      "explicit" : false,
+      "name" : "Your Love",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reality Show"
+      },
+      "artists" : [ {
+        "name" : "Jazmine Sullivan"
+      } ],
+      "duration_ms" : 245866,
+      "explicit" : false,
+      "name" : "Masterpiece (Mona Lisa)",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "All 'N All"
+      },
+      "artists" : [ {
+        "name" : "Earth, Wind & Fire"
+      } ],
+      "duration_ms" : 307626,
+      "explicit" : false,
+      "name" : "Be Ever Wonderful",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Never My Love: The Anthology"
+      },
+      "artists" : [ {
+        "name" : "Donny Hathaway"
+      } ],
+      "duration_ms" : 204055,
+      "explicit" : false,
+      "name" : "Love, Love, Love",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Lalah Hathaway Live!"
+      },
+      "artists" : [ {
+        "name" : "Lalah Hathaway"
+      } ],
+      "duration_ms" : 342066,
+      "explicit" : false,
+      "name" : "Angel (Live)",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Green Aphrodisiac"
+      },
+      "artists" : [ {
+        "name" : "Corinne Bailey Rae"
+      } ],
+      "duration_ms" : 351226,
+      "explicit" : false,
+      "name" : "Green Aphrodisiac",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "1990x"
+      },
+      "artists" : [ {
+        "name" : "Maxwell"
+      } ],
+      "duration_ms" : 284693,
+      "explicit" : false,
+      "name" : "1990x",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Bright Lights EP"
+      },
+      "artists" : [ {
+        "name" : "Gary Clark Jr."
+      } ],
+      "duration_ms" : 271160,
+      "explicit" : false,
+      "name" : "Things Are Changin' - Live [Solo Acoustic]",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bone Deep"
+      },
+      "artists" : [ {
+        "name" : "Jeff Bradshaw"
+      }, {
+        "name" : "Glenn Lewis"
+      } ],
+      "duration_ms" : 324293,
+      "explicit" : false,
+      "name" : "Beyond the Stars",
+      "popularity" : 44
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Ghetto Walkin'"
+      },
+      "artists" : [ {
+        "name" : "Miles Davis"
+      }, {
+        "name" : "Robert Glasper"
+      }, {
+        "name" : "Bilal"
+      } ],
+      "duration_ms" : 222800,
+      "explicit" : false,
+      "name" : "Ghetto Walkin'",
+      "popularity" : 44
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Wines & Spirits"
+      },
+      "artists" : [ {
+        "name" : "Rahsaan Patterson"
+      } ],
+      "duration_ms" : 270266,
+      "explicit" : false,
+      "name" : "Feels Good",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Spotify Sessions"
+      },
+      "artists" : [ {
+        "name" : "John Legend"
+      } ],
+      "duration_ms" : 308720,
+      "explicit" : false,
+      "name" : "Ordinary People - Live from Spotify Milan",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Sade"
+      },
+      "artists" : [ {
+        "name" : "Sade"
+      } ],
+      "duration_ms" : 232666,
+      "explicit" : false,
+      "name" : "Nothing Can Come Between Us - Remastered Version",
+      "popularity" : 44
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Ballad of Purple St. James"
+      },
+      "artists" : [ {
+        "name" : "Yahzarah"
+      } ],
+      "duration_ms" : 257085,
+      "explicit" : false,
+      "name" : "All My Days (feat. Darien Brockington)",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Crush"
+      },
+      "artists" : [ {
+        "name" : "Yuna"
+      }, {
+        "name" : "Usher"
+      } ],
+      "duration_ms" : 241493,
+      "explicit" : false,
+      "name" : "Crush",
+      "popularity" : 33
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Ego Death Bonus Tracks"
+      },
+      "artists" : [ {
+        "name" : "The Internet"
+      } ],
+      "duration_ms" : 136906,
+      "explicit" : false,
+      "name" : "Missing You",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "New Orleans (Deluxe Version)"
+      },
+      "artists" : [ {
+        "name" : "PJ Morton"
+      } ],
+      "duration_ms" : 198146,
+      "explicit" : false,
+      "name" : "Trade It All",
+      "popularity" : 44
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Innervisions"
+      },
+      "artists" : [ {
+        "name" : "Stevie Wonder"
+      } ],
+      "duration_ms" : 323221,
+      "explicit" : false,
+      "name" : "Visions",
+      "popularity" : 45
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Won't Live Here"
+      },
+      "artists" : [ {
+        "name" : "Daniel Caesar"
+      } ],
+      "duration_ms" : 312114,
+      "explicit" : false,
+      "name" : "Won't Live Here",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Ultimate D'Angelo"
+      },
+      "artists" : [ {
+        "name" : "D'Angelo"
+      } ],
+      "duration_ms" : 255533,
+      "explicit" : false,
+      "name" : "Me And Those Dreamin' Eyes Of Mine",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Floetic"
+      },
+      "artists" : [ {
+        "name" : "Floetry"
+      } ],
+      "duration_ms" : 304000,
+      "explicit" : false,
+      "name" : "Hey You",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Timothy Bloom (Deluxe)"
+      },
+      "artists" : [ {
+        "name" : "Timothy Bloom"
+      } ],
+      "duration_ms" : 225415,
+      "explicit" : false,
+      "name" : "Stand In The Way (Of Love)",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Be Good"
+      },
+      "artists" : [ {
+        "name" : "Gregory Porter"
+      } ],
+      "duration_ms" : 386880,
+      "explicit" : false,
+      "name" : "Be Good (Lion's Song)",
+      "popularity" : 25
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Aviary: Act 1"
+      },
+      "artists" : [ {
+        "name" : "Eryn Allen Kane"
+      } ],
+      "duration_ms" : 255760,
+      "explicit" : false,
+      "name" : "Piano Song",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Wonderland (Bonus Version)"
+      },
+      "artists" : [ {
+        "name" : "Tess Henley"
+      } ],
+      "duration_ms" : 220563,
+      "explicit" : false,
+      "name" : "Wonderland",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hypnotized"
+      },
+      "artists" : [ {
+        "name" : "JMSN"
+      } ],
+      "duration_ms" : 236534,
+      "explicit" : false,
+      "name" : "Hypnotized",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Embrya"
+      },
+      "artists" : [ {
+        "name" : "Maxwell"
+      } ],
+      "duration_ms" : 341266,
+      "explicit" : false,
+      "name" : "Drowndeep:Hula",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Mama's Gun"
+      },
+      "artists" : [ {
+        "name" : "Erykah Badu"
+      } ],
+      "duration_ms" : 238733,
+      "explicit" : false,
+      "name" : "Didn't Cha Know",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Yesterday's Tomorrow"
+      },
+      "artists" : [ {
+        "name" : "Phony Ppl"
+      } ],
+      "duration_ms" : 331826,
+      "explicit" : false,
+      "name" : "Why iii Love The Moon.",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "...and then you shoot your cousin"
+      },
+      "artists" : [ {
+        "name" : "The Roots"
+      }, {
+        "name" : "Raheem DeVaughn"
+      } ],
+      "duration_ms" : 306213,
+      "explicit" : false,
+      "name" : "Tomorrow",
+      "popularity" : 44
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Asking For A Friend / On A Day Like Today (Re-Edit)"
+      },
+      "artists" : [ {
+        "name" : "The Foreign Exchange"
+      } ],
+      "duration_ms" : 448430,
+      "explicit" : false,
+      "name" : "On A Day Like Today (Re-Edit)",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color"
+      },
+      "artists" : [ {
+        "name" : "Alabama Shakes"
+      } ],
+      "duration_ms" : 182466,
+      "explicit" : false,
+      "name" : "Sound & Color",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Rebel Soul Music"
+      },
+      "artists" : [ {
+        "name" : "Martin Luther"
+      } ],
+      "duration_ms" : 270480,
+      "explicit" : false,
+      "name" : "Daily Bread",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Blood"
+      },
+      "artists" : [ {
+        "name" : "Lianne La Havas"
+      } ],
+      "duration_ms" : 328508,
+      "explicit" : false,
+      "name" : "Unstoppable",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Feel Like Makin' Love"
+      },
+      "artists" : [ {
+        "name" : "Roberta Flack"
+      } ],
+      "duration_ms" : 175400,
+      "explicit" : false,
+      "name" : "Feel Like Makin' Love",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Greatest Hits: Lean On Me"
+      },
+      "artists" : [ {
+        "name" : "Bill Withers"
+      } ],
+      "duration_ms" : 255066,
+      "explicit" : false,
+      "name" : "Lovely Day",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Earth To Heaven"
+      },
+      "artists" : [ {
+        "name" : "Esperanza Spalding"
+      } ],
+      "duration_ms" : 230466,
+      "explicit" : false,
+      "name" : "Earth To Heaven",
+      "popularity" : 18
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "A Day In The Life"
+      },
+      "artists" : [ {
+        "name" : "Eric Benét"
+      }, {
+        "name" : "Kevin \"K.D.\" Davis"
+      } ],
+      "duration_ms" : 342466,
+      "explicit" : false,
+      "name" : "Love Of My Own",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Woman"
+      },
+      "artists" : [ {
+        "name" : "Jill Scott"
+      } ],
+      "duration_ms" : 271666,
+      "explicit" : false,
+      "name" : "Can't Wait",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "SEPT 5TH"
+      },
+      "artists" : [ {
+        "name" : "dvsn"
+      } ],
+      "duration_ms" : 246293,
+      "explicit" : false,
+      "name" : "Hallucinations",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "In Another Life"
+      },
+      "artists" : [ {
+        "name" : "Bilal"
+      } ],
+      "duration_ms" : 179631,
+      "explicit" : false,
+      "name" : "I Really Don't Care",
+      "popularity" : 45
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "What I'm Feelin'"
+      },
+      "artists" : [ {
+        "name" : "Anthony Hamilton"
+      }, {
+        "name" : "The HamilTones"
+      } ],
+      "duration_ms" : 239786,
+      "explicit" : false,
+      "name" : "What I'm Feelin'",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "I Do"
+      },
+      "artists" : [ {
+        "name" : "Musiq Soulchild"
+      } ],
+      "duration_ms" : 257773,
+      "explicit" : false,
+      "name" : "I Do",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Sketches Of A Man"
+      },
+      "artists" : [ {
+        "name" : "Dwele"
+      } ],
+      "duration_ms" : 201266,
+      "explicit" : true,
+      "name" : "Open Your Eyes",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Love Jones The Music"
+      },
+      "artists" : [ {
+        "name" : "Refugee Camp All-Stars"
+      }, {
+        "name" : "Ms. Lauryn Hill"
+      } ],
+      "duration_ms" : 292000,
+      "explicit" : false,
+      "name" : "The Sweetest Thing - From the New Line Cinema film \"Love Jones\"",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Beyond / Where the Giants Roam"
+      },
+      "artists" : [ {
+        "name" : "Thundercat"
+      }, {
+        "name" : "Flying Lotus"
+      }, {
+        "name" : "Kamasi Washington"
+      } ],
+      "duration_ms" : 187210,
+      "explicit" : false,
+      "name" : "Them Changes (feat. Flying Lotus & Kamasi Washington)",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Watching Me"
+      },
+      "artists" : [ {
+        "name" : "Renee Neufville"
+      } ],
+      "duration_ms" : 266004,
+      "explicit" : false,
+      "name" : "Watching Me",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "We Are KING"
+      },
+      "artists" : [ {
+        "name" : "KING"
+      } ],
+      "duration_ms" : 195424,
+      "explicit" : false,
+      "name" : "The Greatest",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "One Hit Wonders - Vol. 2"
+      },
+      "artists" : [ {
+        "name" : "William DeVaughn"
+      } ],
+      "duration_ms" : 206120,
+      "explicit" : false,
+      "name" : "Be Thankful for What You Got",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Come Close"
+      },
+      "artists" : [ {
+        "name" : "Common"
+      }, {
+        "name" : "Mary J. Blige"
+      } ],
+      "duration_ms" : 263253,
+      "explicit" : false,
+      "name" : "Come Close",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Ultimate Collection"
+      },
+      "artists" : [ {
+        "name" : "George Benson"
+      } ],
+      "duration_ms" : 196920,
+      "explicit" : false,
+      "name" : "This Masquerade",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Where It All Begins"
+      },
+      "artists" : [ {
+        "name" : "Lalah Hathaway"
+      }, {
+        "name" : "Rachelle Ferrell"
+      } ],
+      "duration_ms" : 417666,
+      "explicit" : false,
+      "name" : "I'm Coming Back",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Purpose"
+      },
+      "artists" : [ {
+        "name" : "Algebra"
+      } ],
+      "duration_ms" : 311426,
+      "explicit" : false,
+      "name" : "At This Time",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "1st Born Second (Explicit Version)"
+      },
+      "artists" : [ {
+        "name" : "Bilal"
+      } ],
+      "duration_ms" : 285333,
+      "explicit" : true,
+      "name" : "When Will U Call",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Mama's Gun"
+      },
+      "artists" : [ {
+        "name" : "Erykah Badu"
+      } ],
+      "duration_ms" : 430000,
+      "explicit" : false,
+      "name" : "Orange Moon",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Have You Ever"
+      },
+      "artists" : [ {
+        "name" : "Marsha Ambrosius"
+      } ],
+      "duration_ms" : 257297,
+      "explicit" : false,
+      "name" : "Have You Ever",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Just As I Am"
+      },
+      "artists" : [ {
+        "name" : "Bill Withers"
+      } ],
+      "duration_ms" : 121080,
+      "explicit" : false,
+      "name" : "Grandma's Hands",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Liquid Spirit"
+      },
+      "artists" : [ {
+        "name" : "Gregory Porter"
+      } ],
+      "duration_ms" : 235573,
+      "explicit" : false,
+      "name" : "No Love Dying",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Straight From The Heart"
+      },
+      "artists" : [ {
+        "name" : "Patrice Rushen"
+      } ],
+      "duration_ms" : 317416,
+      "explicit" : false,
+      "name" : "Remind Me",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Faith"
+      },
+      "artists" : [ {
+        "name" : "Faith Evans"
+      } ],
+      "duration_ms" : 273720,
+      "explicit" : false,
+      "name" : "Fallin' In Love",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "My Life"
+      },
+      "artists" : [ {
+        "name" : "Mary J. Blige"
+      } ],
+      "duration_ms" : 257426,
+      "explicit" : false,
+      "name" : "My Life",
+      "popularity" : 53
+    }
+  } ],
+  "total" : 73
+}

@@ -1,0 +1,705 @@
+{
+  "items" : [ {
+    "track" : {
+      "album" : {
+        "name" : "Konnichiwa"
+      },
+      "artists" : [ {
+        "name" : "Skepta"
+      } ],
+      "duration_ms" : 214258,
+      "explicit" : true,
+      "name" : "Man",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Pull Up (feat. Lil Uzi Vert)"
+      },
+      "artists" : [ {
+        "name" : "Wiz Khalifa"
+      }, {
+        "name" : "Lil Uzi Vert"
+      } ],
+      "duration_ms" : 207391,
+      "explicit" : true,
+      "name" : "Pull Up (feat. Lil Uzi Vert)",
+      "popularity" : 75
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Views"
+      },
+      "artists" : [ {
+        "name" : "Drake"
+      }, {
+        "name" : "Rihanna"
+      } ],
+      "duration_ms" : 263360,
+      "explicit" : false,
+      "name" : "Too Good",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Panda"
+      },
+      "artists" : [ {
+        "name" : "Desiigner"
+      } ],
+      "duration_ms" : 247866,
+      "explicit" : true,
+      "name" : "Panda",
+      "popularity" : 93
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Double Ecstasy"
+      },
+      "artists" : [ {
+        "name" : "Antwon"
+      } ],
+      "duration_ms" : 203960,
+      "explicit" : true,
+      "name" : "100K",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Famous"
+      },
+      "artists" : [ {
+        "name" : "Kanye West"
+      } ],
+      "duration_ms" : 196280,
+      "explicit" : true,
+      "name" : "Famous",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "COLLEGROVE"
+      },
+      "artists" : [ {
+        "name" : "2 Chainz"
+      }, {
+        "name" : "Lil Wayne"
+      } ],
+      "duration_ms" : 214720,
+      "explicit" : true,
+      "name" : "Gotta Lotta",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "untitled unmastered."
+      },
+      "artists" : [ {
+        "name" : "Kendrick Lamar"
+      } ],
+      "duration_ms" : 496173,
+      "explicit" : true,
+      "name" : "untitled 07 | 2014 - 2016",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "ANTI"
+      },
+      "artists" : [ {
+        "name" : "Rihanna"
+      }, {
+        "name" : "Drake"
+      } ],
+      "duration_ms" : 219320,
+      "explicit" : true,
+      "name" : "Work",
+      "popularity" : 86
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bake Sale (feat. Travis Scott)"
+      },
+      "artists" : [ {
+        "name" : "Wiz Khalifa"
+      }, {
+        "name" : "Travi$ Scott"
+      } ],
+      "duration_ms" : 238533,
+      "explicit" : true,
+      "name" : "Bake Sale (feat. Travis Scott)",
+      "popularity" : 74
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Free TC"
+      },
+      "artists" : [ {
+        "name" : "Ty Dolla $ign"
+      }, {
+        "name" : "E-40"
+      } ],
+      "duration_ms" : 178506,
+      "explicit" : true,
+      "name" : "Saved (feat. E-40)",
+      "popularity" : 79
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Black Market (Deluxe)"
+      },
+      "artists" : [ {
+        "name" : "Rick Ross"
+      }, {
+        "name" : "CeeLo Green"
+      } ],
+      "duration_ms" : 241386,
+      "explicit" : true,
+      "name" : "Smile Mama, Smile",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hotline Bling"
+      },
+      "artists" : [ {
+        "name" : "Drake"
+      } ],
+      "duration_ms" : 267023,
+      "explicit" : false,
+      "name" : "Hotline Bling",
+      "popularity" : 74
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Too Rich For The Bitch"
+      },
+      "artists" : [ {
+        "name" : "50 Cent"
+      } ],
+      "duration_ms" : 181000,
+      "explicit" : true,
+      "name" : "Too Rich For The Bitch",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Cores & Valores"
+      },
+      "artists" : [ {
+        "name" : "Racionais MC's"
+      } ],
+      "duration_ms" : 172605,
+      "explicit" : false,
+      "name" : "Quanto Vale o Show",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "When It's Dark Out"
+      },
+      "artists" : [ {
+        "name" : "G-Eazy"
+      }, {
+        "name" : "Bebe Rexha"
+      } ],
+      "duration_ms" : 251466,
+      "explicit" : true,
+      "name" : "Me, Myself & I",
+      "popularity" : 92
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "One of Us"
+      },
+      "artists" : [ {
+        "name" : "Rick Ross"
+      }, {
+        "name" : "Nas"
+      } ],
+      "duration_ms" : 194160,
+      "explicit" : true,
+      "name" : "One Of Us",
+      "popularity" : 5
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "We Run (feat. French Montana, Wale & Raekwon)"
+      },
+      "artists" : [ {
+        "name" : "iSHi"
+      }, {
+        "name" : "French Montana"
+      }, {
+        "name" : "Raekwon"
+      }, {
+        "name" : "Wale"
+      } ],
+      "duration_ms" : 318103,
+      "explicit" : true,
+      "name" : "We Run",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Order More"
+      },
+      "artists" : [ {
+        "name" : "G-Eazy"
+      }, {
+        "name" : "Starrah"
+      } ],
+      "duration_ms" : 208826,
+      "explicit" : true,
+      "name" : "Order More",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "WTF (Where They From) [feat. Pharrell Williams]"
+      },
+      "artists" : [ {
+        "name" : "Missy Elliott"
+      }, {
+        "name" : "Pharrell Williams"
+      } ],
+      "duration_ms" : 192772,
+      "explicit" : true,
+      "name" : "WTF (Where They From) [feat. Pharrell Williams]",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Hills Remixes"
+      },
+      "artists" : [ {
+        "name" : "The Weeknd"
+      }, {
+        "name" : "Eminem"
+      } ],
+      "duration_ms" : 263693,
+      "explicit" : true,
+      "name" : "The Hills - Remix",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "A Cena"
+      },
+      "artists" : [ {
+        "name" : "Rashid"
+      }, {
+        "name" : "Izzy Gordon"
+      } ],
+      "duration_ms" : 205986,
+      "explicit" : false,
+      "name" : "A Cena",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Cava Cava Parte 2"
+      },
+      "artists" : [ {
+        "name" : "Edi Rock"
+      }, {
+        "name" : "Don Pixote"
+      } ],
+      "duration_ms" : 243600,
+      "explicit" : false,
+      "name" : "Cava Cava Parte 2",
+      "popularity" : 47
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)"
+      },
+      "artists" : [ {
+        "name" : "Macklemore & Ryan Lewis"
+      }, {
+        "name" : "Grandmaster Melle Mel"
+      }, {
+        "name" : "Eric Nally"
+      }, {
+        "name" : "Grandmaster Caz"
+      }, {
+        "name" : "Kool Moe Dee"
+      } ],
+      "duration_ms" : 292593,
+      "explicit" : true,
+      "name" : "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",
+      "popularity" : 45
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Emicida"
+      },
+      "artists" : [ {
+        "name" : "Emicida"
+      }, {
+        "name" : "J. Ghetto"
+      } ],
+      "duration_ms" : 182880,
+      "explicit" : false,
+      "name" : "Boa Esperança",
+      "popularity" : 5
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Man Plans God Laughs"
+      },
+      "artists" : [ {
+        "name" : "Public Enemy"
+      } ],
+      "duration_ms" : 123976,
+      "explicit" : false,
+      "name" : "Man Plans God Laughs",
+      "popularity" : 42
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Marshall Mathers LP2"
+      },
+      "artists" : [ {
+        "name" : "Eminem"
+      } ],
+      "duration_ms" : 238746,
+      "explicit" : true,
+      "name" : "Berzerk",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Ill Communication"
+      },
+      "artists" : [ {
+        "name" : "Beastie Boys"
+      } ],
+      "duration_ms" : 178440,
+      "explicit" : true,
+      "name" : "Sabotage",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Planes"
+      },
+      "artists" : [ {
+        "name" : "Jeremih"
+      }, {
+        "name" : "J. Cole"
+      } ],
+      "duration_ms" : 240026,
+      "explicit" : true,
+      "name" : "Planes",
+      "popularity" : 30
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Só Deus Pode Me Julgar (Contemporâneo Mix)"
+      },
+      "artists" : [ {
+        "name" : "Mv Bill"
+      } ],
+      "duration_ms" : 432587,
+      "explicit" : false,
+      "name" : "Só Deus Pode Me Julgar - Contemporâneo Mix",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tetsuo & Youth"
+      },
+      "artists" : [ {
+        "name" : "Lupe Fiasco"
+      }, {
+        "name" : "Ayesha Jaco"
+      } ],
+      "duration_ms" : 516000,
+      "explicit" : true,
+      "name" : "Prisoner 1 & 2 (feat. Ayesha Jaco)",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Que Vença o Melhor"
+      },
+      "artists" : [ {
+        "name" : "Start"
+      } ],
+      "duration_ms" : 246386,
+      "explicit" : false,
+      "name" : "Que Vença o Melhor",
+      "popularity" : 44
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "AT.LONG.LAST.A$AP"
+      },
+      "artists" : [ {
+        "name" : "A$AP Rocky"
+      }, {
+        "name" : "Bones"
+      } ],
+      "duration_ms" : 227426,
+      "explicit" : true,
+      "name" : "Canal St.",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "This Time"
+      },
+      "artists" : [ {
+        "name" : "Lack Of Afro"
+      }, {
+        "name" : "Wax"
+      }, {
+        "name" : "Herbal T"
+      } ],
+      "duration_ms" : 182080,
+      "explicit" : false,
+      "name" : "P.A.R.T.Y.",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "To Pimp A Butterfly"
+      },
+      "artists" : [ {
+        "name" : "Kendrick Lamar"
+      } ],
+      "duration_ms" : 234693,
+      "explicit" : true,
+      "name" : "King Kunta",
+      "popularity" : 72
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Stereo Typical"
+      },
+      "artists" : [ {
+        "name" : "Rizzle Kicks"
+      } ],
+      "duration_ms" : 216013,
+      "explicit" : false,
+      "name" : "Mama Do The Hump",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Love Story"
+      },
+      "artists" : [ {
+        "name" : "Yelawolf"
+      }, {
+        "name" : "Eminem"
+      } ],
+      "duration_ms" : 314280,
+      "explicit" : true,
+      "name" : "Best Friend",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Trap Queen"
+      },
+      "artists" : [ {
+        "name" : "Fetty Wap"
+      } ],
+      "duration_ms" : 221293,
+      "explicit" : false,
+      "name" : "Trap Queen",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "For Everybody"
+      },
+      "artists" : [ {
+        "name" : "Juicy J"
+      }, {
+        "name" : "Wiz Khalifa"
+      }, {
+        "name" : "R. City"
+      } ],
+      "duration_ms" : 268533,
+      "explicit" : true,
+      "name" : "For Everybody",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Movin' Bass (GTA Remix)"
+      },
+      "artists" : [ {
+        "name" : "Rick Ross"
+      }, {
+        "name" : "JAY Z"
+      } ],
+      "duration_ms" : 253773,
+      "explicit" : true,
+      "name" : "Movin' Bass - GTA Remix",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Apparences"
+      },
+      "artists" : [ {
+        "name" : "Dinos Punchlinovic"
+      } ],
+      "duration_ms" : 236706,
+      "explicit" : false,
+      "name" : "Namek",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Lose Yourself"
+      },
+      "artists" : [ {
+        "name" : "Eminem"
+      } ],
+      "duration_ms" : 320293,
+      "explicit" : true,
+      "name" : "Lose Yourself - Soundtrack Version",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hotel"
+      },
+      "artists" : [ {
+        "name" : "Kid Ink"
+      }, {
+        "name" : "Chris Brown"
+      } ],
+      "duration_ms" : 218880,
+      "explicit" : true,
+      "name" : "Hotel",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Black Album (Explicit)"
+      },
+      "artists" : [ {
+        "name" : "JAY Z"
+      } ],
+      "duration_ms" : 234626,
+      "explicit" : true,
+      "name" : "99 Problems",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "2Pac Greatest Hits (Explicit Version)"
+      },
+      "artists" : [ {
+        "name" : "2Pac"
+      } ],
+      "duration_ms" : 258640,
+      "explicit" : true,
+      "name" : "I Get Around",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Power To The People And The Beats - Public Enemy's Greatest Hits"
+      },
+      "artists" : [ {
+        "name" : "Public Enemy"
+      } ],
+      "duration_ms" : 276813,
+      "explicit" : false,
+      "name" : "Fight The Power",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Strictly Hip Hop: The Best Of Cypress Hill"
+      },
+      "artists" : [ {
+        "name" : "Cypress Hill"
+      } ],
+      "duration_ms" : 208533,
+      "explicit" : true,
+      "name" : "Insane in the Brain",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Run-DMC"
+      },
+      "artists" : [ {
+        "name" : "Run–D.M.C."
+      } ],
+      "duration_ms" : 183200,
+      "explicit" : false,
+      "name" : "It's Tricky",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Aquemini"
+      },
+      "artists" : [ {
+        "name" : "OutKast"
+      } ],
+      "duration_ms" : 324266,
+      "explicit" : true,
+      "name" : "Rosa Parks",
+      "popularity" : 57
+    }
+  } ],
+  "total" : 49
+}

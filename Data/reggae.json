@@ -1,0 +1,1270 @@
+{
+  "items" : [ {
+    "track" : {
+      "album" : {
+        "name" : "Bob Marley 3CD"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 172933,
+      "explicit" : false,
+      "name" : "One Love / People Get Ready",
+      "popularity" : 16
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Red Pond"
+      },
+      "artists" : [ {
+        "name" : "Junior Kelly"
+      } ],
+      "duration_ms" : 251506,
+      "explicit" : false,
+      "name" : "Nuthin' Wrong With The World",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Art And Life"
+      },
+      "artists" : [ {
+        "name" : "Beenie Man"
+      }, {
+        "name" : "Mýa"
+      } ],
+      "duration_ms" : 257893,
+      "explicit" : true,
+      "name" : "Girls Dem Sugar - Feat. Mya",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Kevin Michael"
+      },
+      "artists" : [ {
+        "name" : "Kevin Michael feat. Wyclef Jean"
+      } ],
+      "duration_ms" : 252847,
+      "explicit" : false,
+      "name" : "It Don't Make Any Difference To Me - Supa Dupes Remix",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hot Shot (International Version #2)"
+      },
+      "artists" : [ {
+        "name" : "Shaggy"
+      }, {
+        "name" : "Ricardo Ducent"
+      } ],
+      "duration_ms" : 227600,
+      "explicit" : false,
+      "name" : "It Wasn't Me",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Roots To The Bone"
+      },
+      "artists" : [ {
+        "name" : "Rico"
+      } ],
+      "duration_ms" : 240160,
+      "explicit" : false,
+      "name" : "Take Five",
+      "popularity" : 47
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Labour Of Love I & II"
+      },
+      "artists" : [ {
+        "name" : "UB40"
+      } ],
+      "duration_ms" : 231733,
+      "explicit" : false,
+      "name" : "Kingston Town",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Soul Pirate"
+      },
+      "artists" : [ {
+        "name" : "Alborosie"
+      } ],
+      "duration_ms" : 230573,
+      "explicit" : false,
+      "name" : "Still Blazing",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Miike Snow"
+      },
+      "artists" : [ {
+        "name" : "Miike Snow"
+      }, {
+        "name" : "Mark Ronson"
+      } ],
+      "duration_ms" : 270360,
+      "explicit" : false,
+      "name" : "Animal - Mark Ronson Remix",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Spirit Of Music"
+      },
+      "artists" : [ {
+        "name" : "Ziggy Marley & The Melody Makers"
+      } ],
+      "duration_ms" : 234000,
+      "explicit" : false,
+      "name" : "One Good Spliff",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "True Reggae"
+      },
+      "artists" : [ {
+        "name" : "Apache Indian"
+      } ],
+      "duration_ms" : 228960,
+      "explicit" : false,
+      "name" : "Boom Shack-A-Lak - Edit",
+      "popularity" : 47
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reggae Reggae (International Version)"
+      },
+      "artists" : [ {
+        "name" : "Junior Murvin"
+      } ],
+      "duration_ms" : 241386,
+      "explicit" : false,
+      "name" : "Police & Thieves",
+      "popularity" : 13
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Voices Of Sweet Jamaica"
+      },
+      "artists" : [ {
+        "name" : "Shaggy"
+      }, {
+        "name" : "Josey Wales"
+      }, {
+        "name" : "Mr. Vegas"
+      }, {
+        "name" : "Barrington Levy"
+      }, {
+        "name" : "U-Roy"
+      }, {
+        "name" : "Beenie Man"
+      }, {
+        "name" : "T.O.K."
+      }, {
+        "name" : "Cocoa Tea"
+      }, {
+        "name" : "Marcia Griffiths"
+      }, {
+        "name" : "Singing Melody"
+      }, {
+        "name" : "Tony Curtis"
+      }, {
+        "name" : "Ce'Cile"
+      }, {
+        "name" : "Christopher Martin"
+      }, {
+        "name" : "Leroy Sibbles"
+      }, {
+        "name" : "Freddie McGregor"
+      } ],
+      "duration_ms" : 246363,
+      "explicit" : false,
+      "name" : "The Voices Of Sweet Jamaica - All Star Remix",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Blazzin' Fire"
+      },
+      "artists" : [ {
+        "name" : "Inner Circle"
+      } ],
+      "duration_ms" : 208230,
+      "explicit" : false,
+      "name" : "Games People Play",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Island Life"
+      },
+      "artists" : [ {
+        "name" : "Grace Jones"
+      } ],
+      "duration_ms" : 359560,
+      "explicit" : false,
+      "name" : "My Jamaican Guy",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "70's Pop"
+      },
+      "artists" : [ {
+        "name" : "10cc"
+      } ],
+      "duration_ms" : 267746,
+      "explicit" : false,
+      "name" : "Dreadlock Holiday",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Dangerously Roots - Journey From August Town"
+      },
+      "artists" : [ {
+        "name" : "Duane Stephenson"
+      } ],
+      "duration_ms" : 234800,
+      "explicit" : false,
+      "name" : "Cool Runnings",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Turn Me On (Online Music)"
+      },
+      "artists" : [ {
+        "name" : "Kevin Lyttle"
+      } ],
+      "duration_ms" : 192106,
+      "explicit" : false,
+      "name" : "Turn Me On",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bob Marley 3CD"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 257440,
+      "explicit" : false,
+      "name" : "Buffalo Soldier",
+      "popularity" : 20
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Collie Buddz"
+      },
+      "artists" : [ {
+        "name" : "Collie Buddz"
+      } ],
+      "duration_ms" : 227733,
+      "explicit" : true,
+      "name" : "Blind To You - Explicit Album Version",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Classic Reggae: The Universal Masters Collection"
+      },
+      "artists" : [ {
+        "name" : "Gregory Isaacs"
+      } ],
+      "duration_ms" : 244933,
+      "explicit" : false,
+      "name" : "Night Nurse",
+      "popularity" : 45
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Good Vibes - The Very Best of Laid Back"
+      },
+      "artists" : [ {
+        "name" : "Laid Back"
+      } ],
+      "duration_ms" : 257666,
+      "explicit" : false,
+      "name" : "Sunshine Reggae - Original Mix '82",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Very Best Of"
+      },
+      "artists" : [ {
+        "name" : "UB40"
+      } ],
+      "duration_ms" : 183733,
+      "explicit" : false,
+      "name" : "Red Red Wine - Edit",
+      "popularity" : 72
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tough Life"
+      },
+      "artists" : [ {
+        "name" : "Junior Kelly"
+      } ],
+      "duration_ms" : 209813,
+      "explicit" : false,
+      "name" : "Rasta Should Be Deeper",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Don't Kill the Magic"
+      },
+      "artists" : [ {
+        "name" : "MAGIC!"
+      } ],
+      "duration_ms" : 224840,
+      "explicit" : false,
+      "name" : "Rude",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Sidewalk University (US Release)"
+      },
+      "artists" : [ {
+        "name" : "Shinehead"
+      } ],
+      "duration_ms" : 268973,
+      "explicit" : false,
+      "name" : "Jamaican In New York",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Blazzin' Fire"
+      },
+      "artists" : [ {
+        "name" : "Inner Circle"
+      } ],
+      "duration_ms" : 227067,
+      "explicit" : false,
+      "name" : "Sweat (A La La La La Long)",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Running Away (Winta James Mix)"
+      },
+      "artists" : [ {
+        "name" : "Ady Suleiman"
+      }, {
+        "name" : "Winta James"
+      } ],
+      "duration_ms" : 210800,
+      "explicit" : true,
+      "name" : "Running Away - Winta James Mix",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Cheerleader (Remixes)"
+      },
+      "artists" : [ {
+        "name" : "OMI"
+      } ],
+      "duration_ms" : 174190,
+      "explicit" : false,
+      "name" : "Cheerleader",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reggae Reggae (International Version)"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 130693,
+      "explicit" : false,
+      "name" : "Sun Is Shining",
+      "popularity" : 11
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Loud"
+      },
+      "artists" : [ {
+        "name" : "Rihanna"
+      } ],
+      "duration_ms" : 267000,
+      "explicit" : true,
+      "name" : "Man Down",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hot Shot (International Version #2)"
+      },
+      "artists" : [ {
+        "name" : "Shaggy"
+      }, {
+        "name" : "Rayvon"
+      } ],
+      "duration_ms" : 235133,
+      "explicit" : false,
+      "name" : "Angel",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Ziggy Marley"
+      },
+      "artists" : [ {
+        "name" : "Ziggy Marley"
+      } ],
+      "duration_ms" : 267306,
+      "explicit" : false,
+      "name" : "Weekend's Long",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Wake Me Up (Remixes)"
+      },
+      "artists" : [ {
+        "name" : "Avicii"
+      } ],
+      "duration_ms" : 271626,
+      "explicit" : false,
+      "name" : "Wake Me Up - Reggae Mix",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Inna Heights"
+      },
+      "artists" : [ {
+        "name" : "Buju Banton"
+      } ],
+      "duration_ms" : 273040,
+      "explicit" : false,
+      "name" : "Hills And Valleys",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reggae Greats"
+      },
+      "artists" : [ {
+        "name" : "Third World"
+      } ],
+      "duration_ms" : 236800,
+      "explicit" : false,
+      "name" : "Now That We've Found Love - Single Version",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Legend (The Definitive Remasters)"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 236611,
+      "explicit" : false,
+      "name" : "Could You Be Loved",
+      "popularity" : 65
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Mind Control"
+      },
+      "artists" : [ {
+        "name" : "Stephen Marley"
+      }, {
+        "name" : "Mos Def"
+      } ],
+      "duration_ms" : 294786,
+      "explicit" : false,
+      "name" : "Hey Baby",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Pablo Moses: A Song (2010 Remastered Version)"
+      },
+      "artists" : [ {
+        "name" : "Pablo Moses"
+      } ],
+      "duration_ms" : 290453,
+      "explicit" : false,
+      "name" : "Dubbing Is a Must Part 1 - 2010 Remastered Version",
+      "popularity" : 42
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bush Doctor"
+      },
+      "artists" : [ {
+        "name" : "Peter Tosh"
+      } ],
+      "duration_ms" : 320280,
+      "explicit" : false,
+      "name" : "(You Gotta Walk) Don't Look Back - 2002 Remastered Version",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Molly Town"
+      },
+      "artists" : [ {
+        "name" : "Joss Stone"
+      } ],
+      "duration_ms" : 212466,
+      "explicit" : false,
+      "name" : "Molly Town",
+      "popularity" : 45
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Who Feels It Knows It"
+      },
+      "artists" : [ {
+        "name" : "Rita Marley"
+      } ],
+      "duration_ms" : 265626,
+      "explicit" : false,
+      "name" : "One Draw",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Most Wanted Series - Yellowman"
+      },
+      "artists" : [ {
+        "name" : "Yellowman"
+      } ],
+      "duration_ms" : 387306,
+      "explicit" : false,
+      "name" : "Zungguzungguguzungguzeng",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Black Star"
+      },
+      "artists" : [ {
+        "name" : "Anthony B"
+      } ],
+      "duration_ms" : 224840,
+      "explicit" : false,
+      "name" : "World A Reggae Music",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Kaya - Deluxe Edition"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 195880,
+      "explicit" : false,
+      "name" : "Kaya",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reign Of Fire"
+      },
+      "artists" : [ {
+        "name" : "Capleton"
+      } ],
+      "duration_ms" : 246453,
+      "explicit" : false,
+      "name" : "That Day Will Come",
+      "popularity" : 19
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Ziggy Marley"
+      },
+      "artists" : [ {
+        "name" : "Ziggy Marley"
+      } ],
+      "duration_ms" : 201800,
+      "explicit" : false,
+      "name" : "Start It Up",
+      "popularity" : 44
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Cure"
+      },
+      "artists" : [ {
+        "name" : "Jah Cure"
+      } ],
+      "duration_ms" : 279533,
+      "explicit" : false,
+      "name" : "All Of Me",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best of Pato Banton"
+      },
+      "artists" : [ {
+        "name" : "Pato Banton"
+      }, {
+        "name" : "Robin Campbell"
+      }, {
+        "name" : "Ali Campbell"
+      } ],
+      "duration_ms" : 233866,
+      "explicit" : false,
+      "name" : "Baby Come Back - With Ali & Robin Campbell",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Mama Africa"
+      },
+      "artists" : [ {
+        "name" : "Peter Tosh"
+      } ],
+      "duration_ms" : 244253,
+      "explicit" : false,
+      "name" : "Johnny B Goode - 2002 Remastered Version",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Life"
+      },
+      "artists" : [ {
+        "name" : "Sizzla"
+      } ],
+      "duration_ms" : 240760,
+      "explicit" : false,
+      "name" : "Marijuana",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Handsworth Revolution"
+      },
+      "artists" : [ {
+        "name" : "Steel Pulse"
+      } ],
+      "duration_ms" : 321373,
+      "explicit" : false,
+      "name" : "Handsworth Revolution",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Legend (The Definitive Remasters)"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 256208,
+      "explicit" : false,
+      "name" : "Waiting In Vain",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reggae Reggae (International Version)"
+      },
+      "artists" : [ {
+        "name" : "Lionel Richie"
+      } ],
+      "duration_ms" : 241093,
+      "explicit" : false,
+      "name" : "Stand Down",
+      "popularity" : 21
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Confidence"
+      },
+      "artists" : [ {
+        "name" : "Gentleman"
+      } ],
+      "duration_ms" : 208906,
+      "explicit" : false,
+      "name" : "Intoxication",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Soul Pirate"
+      },
+      "artists" : [ {
+        "name" : "Alborosie"
+      } ],
+      "duration_ms" : 192400,
+      "explicit" : false,
+      "name" : "Kingston Town",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Wake Up!"
+      },
+      "artists" : [ {
+        "name" : "John Legend"
+      }, {
+        "name" : "The Roots"
+      } ],
+      "duration_ms" : 229386,
+      "explicit" : false,
+      "name" : "Humanity (Love the Way It Should Be)",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Legend (The Definitive Remasters)"
+      },
+      "artists" : [ {
+        "name" : "The Wailers"
+      } ],
+      "duration_ms" : 197276,
+      "explicit" : false,
+      "name" : "Get Up, Stand Up",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Jah No Dead - An Introduction To Burning Spear"
+      },
+      "artists" : [ {
+        "name" : "Burning Spear"
+      } ],
+      "duration_ms" : 199613,
+      "explicit" : false,
+      "name" : "Marcus Garvey",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bob Marley 3CD"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 211000,
+      "explicit" : false,
+      "name" : "Jamming",
+      "popularity" : 15
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Delroy Wilson Anthology"
+      },
+      "artists" : [ {
+        "name" : "Delroy Wilson"
+      } ],
+      "duration_ms" : 163920,
+      "explicit" : false,
+      "name" : "Better Must Come",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reggae Greats"
+      },
+      "artists" : [ {
+        "name" : "Toots & The Maytals"
+      } ],
+      "duration_ms" : 172706,
+      "explicit" : false,
+      "name" : "Pressure Drop - Single Version",
+      "popularity" : 47
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Love Is My Religion"
+      },
+      "artists" : [ {
+        "name" : "Ziggy Marley"
+      } ],
+      "duration_ms" : 220413,
+      "explicit" : false,
+      "name" : "Beach In Hawaii",
+      "popularity" : 65
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best Of Shaggy"
+      },
+      "artists" : [ {
+        "name" : "Maxi Priest"
+      }, {
+        "name" : "Shaggy"
+      } ],
+      "duration_ms" : 240946,
+      "explicit" : false,
+      "name" : "That Girl - feat. Shaggy",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best Of Big Mountain"
+      },
+      "artists" : [ {
+        "name" : "Big Mountain"
+      }, {
+        "name" : "Tom Lord-Alge"
+      } ],
+      "duration_ms" : 249520,
+      "explicit" : false,
+      "name" : "Baby, I Love Your Way",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Natty Rebel - Extra Version"
+      },
+      "artists" : [ {
+        "name" : "U-Roy"
+      } ],
+      "duration_ms" : 211960,
+      "explicit" : false,
+      "name" : "Natty Rebel - 1990 Digital Remaster",
+      "popularity" : 47
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Party In Session - The Black Uhuru Collection (2CD Set)"
+      },
+      "artists" : [ {
+        "name" : "Black Uhuru"
+      } ],
+      "duration_ms" : 308760,
+      "explicit" : false,
+      "name" : "Sinsemilla",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "One Love, One Life"
+      },
+      "artists" : [ {
+        "name" : "Beres Hammond"
+      } ],
+      "duration_ms" : 224653,
+      "explicit" : false,
+      "name" : "In My Arms",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best Of Shaggy"
+      },
+      "artists" : [ {
+        "name" : "Shaggy"
+      } ],
+      "duration_ms" : 250200,
+      "explicit" : false,
+      "name" : "Boombastic",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Stay Forever"
+      },
+      "artists" : [ {
+        "name" : "Marcia Griffiths"
+      }, {
+        "name" : "Ziggi Recado"
+      } ],
+      "duration_ms" : 207367,
+      "explicit" : false,
+      "name" : "100 % of Loving",
+      "popularity" : 14
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bush Doctor"
+      },
+      "artists" : [ {
+        "name" : "Peter Tosh"
+      } ],
+      "duration_ms" : 247973,
+      "explicit" : false,
+      "name" : "Bush Doctor - 2002 Remastered Version",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Permission - Single"
+      },
+      "artists" : [ {
+        "name" : "Shurwayne Winchester"
+      }, {
+        "name" : "Mr. Vegas"
+      } ],
+      "duration_ms" : 229747,
+      "explicit" : false,
+      "name" : "Permission",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tanya...Collection Of Hits"
+      },
+      "artists" : [ {
+        "name" : "Tanya Stephens"
+      } ],
+      "duration_ms" : 253097,
+      "explicit" : false,
+      "name" : "It's A Pity",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Survival"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 240333,
+      "explicit" : false,
+      "name" : "So Much Trouble In The World",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reggae Greats"
+      },
+      "artists" : [ {
+        "name" : "Toots & The Maytals"
+      } ],
+      "duration_ms" : 197693,
+      "explicit" : false,
+      "name" : "Take Me Home Country Roads",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Light"
+      },
+      "artists" : [ {
+        "name" : "Matisyahu"
+      } ],
+      "duration_ms" : 207573,
+      "explicit" : false,
+      "name" : "One Day - New Album Version",
+      "popularity" : 58
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Welcome to Jamrock"
+      },
+      "artists" : [ {
+        "name" : "Damian Marley"
+      } ],
+      "duration_ms" : 213200,
+      "explicit" : false,
+      "name" : "Welcome To Jamrock",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Morgan Heritage Family & Friends Volume . 1"
+      },
+      "artists" : [ {
+        "name" : "Morgan Heritage"
+      }, {
+        "name" : "Capleton"
+      }, {
+        "name" : "Jah Cure"
+      }, {
+        "name" : "LMS"
+      }, {
+        "name" : "Ras Shiloh"
+      }, {
+        "name" : "Bushman"
+      } ],
+      "duration_ms" : 357026,
+      "explicit" : false,
+      "name" : "Mount Zion Medley (ft. Capleton, Jah Cure, LMS, Ras Shiloh, Bushman)",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Chant Down Babylon"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      }, {
+        "name" : "Ms. Lauryn Hill"
+      } ],
+      "duration_ms" : 346302,
+      "explicit" : false,
+      "name" : "Turn Your Lights Down Low",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reggae Anthology: The Definitive Collection of Federal Records (1964-1982)"
+      },
+      "artists" : [ {
+        "name" : "Wayne Wade"
+      } ],
+      "duration_ms" : 397400,
+      "explicit" : false,
+      "name" : "Lady",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Wanted Dread And Alive"
+      },
+      "artists" : [ {
+        "name" : "Peter Tosh"
+      } ],
+      "duration_ms" : 268066,
+      "explicit" : false,
+      "name" : "Wanted Dread and Alive - 2002 Remastered Version",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Murder She Wrote Single"
+      },
+      "artists" : [ {
+        "name" : "Chaka Demus & Pliers"
+      }, {
+        "name" : "Sly & Robbie"
+      } ],
+      "duration_ms" : 247133,
+      "explicit" : false,
+      "name" : "Murder She Wrote (Original Mix)",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Night Nurse"
+      },
+      "artists" : [ {
+        "name" : "Gregory Isaacs"
+      } ],
+      "duration_ms" : 315026,
+      "explicit" : false,
+      "name" : "Cool Down The Pace",
+      "popularity" : 21
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best Of Ziggy Marley & The Melody Makers"
+      },
+      "artists" : [ {
+        "name" : "Ziggy Marley & The Melody Makers"
+      } ],
+      "duration_ms" : 298266,
+      "explicit" : false,
+      "name" : "Look Who's Dancin'",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Legend (The Definitive Remasters)"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 230527,
+      "explicit" : false,
+      "name" : "Is This Love",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Crystal Woman & Musik - Two Riddim Sampler"
+      },
+      "artists" : [ {
+        "name" : "Lutan Fyah"
+      } ],
+      "duration_ms" : 254813,
+      "explicit" : false,
+      "name" : "When mi rise it",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Confidence"
+      },
+      "artists" : [ {
+        "name" : "Gentleman"
+      } ],
+      "duration_ms" : 229706,
+      "explicit" : false,
+      "name" : "Superior",
+      "popularity" : 59
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Burnin' (The Definitive Remasters)"
+      },
+      "artists" : [ {
+        "name" : "The Wailers"
+      } ],
+      "duration_ms" : 281026,
+      "explicit" : false,
+      "name" : "I Shot The Sheriff",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Pressure Drop: The Definitive Collection"
+      },
+      "artists" : [ {
+        "name" : "Toots & The Maytals"
+      } ],
+      "duration_ms" : 294773,
+      "explicit" : false,
+      "name" : "Funky Kingston",
+      "popularity" : 43
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Live at Stubb's"
+      },
+      "artists" : [ {
+        "name" : "Matisyahu"
+      } ],
+      "duration_ms" : 288600,
+      "explicit" : false,
+      "name" : "King Without a Crown - Live",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Natural Mystic"
+      },
+      "artists" : [ {
+        "name" : "Bob Marley & The Wailers"
+      } ],
+      "duration_ms" : 192706,
+      "explicit" : false,
+      "name" : "Iron Lion Zion",
+      "popularity" : 16
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Reggae Reggae (International Version)"
+      },
+      "artists" : [ {
+        "name" : "Rihanna"
+      }, {
+        "name" : "Vybz Kartel"
+      } ],
+      "duration_ms" : 259600,
+      "explicit" : false,
+      "name" : "You Don't Love Me (No, No, No)",
+      "popularity" : 14
+    }
+  } ],
+  "total" : 92
+}

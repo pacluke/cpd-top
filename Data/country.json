@@ -1,0 +1,790 @@
+{
+  "items" : [ {
+    "track" : {
+      "album" : {
+        "name" : "Kill The Lights"
+      },
+      "artists" : [ {
+        "name" : "Luke Bryan"
+      } ],
+      "duration_ms" : 278640,
+      "explicit" : false,
+      "name" : "Huntin', Fishin' And Lovin' Every Day",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Ripcord"
+      },
+      "artists" : [ {
+        "name" : "Keith Urban"
+      } ],
+      "duration_ms" : 233826,
+      "explicit" : false,
+      "name" : "Wasted Time",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Damn Country Music"
+      },
+      "artists" : [ {
+        "name" : "Tim McGraw"
+      } ],
+      "duration_ms" : 259266,
+      "explicit" : false,
+      "name" : "Humble And Kind",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tangled Up"
+      },
+      "artists" : [ {
+        "name" : "Thomas Rhett"
+      } ],
+      "duration_ms" : 227693,
+      "explicit" : false,
+      "name" : "T-Shirt",
+      "popularity" : 78
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "H.O.L.Y."
+      },
+      "artists" : [ {
+        "name" : "Florida Georgia Line"
+      } ],
+      "duration_ms" : 196960,
+      "explicit" : false,
+      "name" : "H.O.L.Y.",
+      "popularity" : 82
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Mr. Misunderstood"
+      },
+      "artists" : [ {
+        "name" : "Eric Church"
+      } ],
+      "duration_ms" : 179346,
+      "explicit" : false,
+      "name" : "Record Year",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "California Sunrise"
+      },
+      "artists" : [ {
+        "name" : "Jon Pardi"
+      } ],
+      "duration_ms" : 202346,
+      "explicit" : false,
+      "name" : "Head Over Boots",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Fix"
+      },
+      "artists" : [ {
+        "name" : "Chris Lane"
+      } ],
+      "duration_ms" : 189186,
+      "explicit" : false,
+      "name" : "Fix",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Night's On Fire"
+      },
+      "artists" : [ {
+        "name" : "David Nail"
+      } ],
+      "duration_ms" : 189506,
+      "explicit" : false,
+      "name" : "Night's On Fire",
+      "popularity" : 75
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Montevallo"
+      },
+      "artists" : [ {
+        "name" : "Sam Hunt"
+      } ],
+      "duration_ms" : 225693,
+      "explicit" : false,
+      "name" : "Make You Miss Me",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "You Look Like I Need A Drink"
+      },
+      "artists" : [ {
+        "name" : "Justin Moore"
+      } ],
+      "duration_ms" : 189253,
+      "explicit" : false,
+      "name" : "You Look Like I Need A Drink",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Wild Ones (Deluxe)"
+      },
+      "artists" : [ {
+        "name" : "Kip Moore"
+      } ],
+      "duration_ms" : 212720,
+      "explicit" : false,
+      "name" : "Running For You",
+      "popularity" : 64
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "JEKYLL + HYDE"
+      },
+      "artists" : [ {
+        "name" : "Zac Brown Band"
+      } ],
+      "duration_ms" : 188053,
+      "explicit" : false,
+      "name" : "Castaway",
+      "popularity" : 65
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Rock On"
+      },
+      "artists" : [ {
+        "name" : "Tucker Beathard"
+      } ],
+      "duration_ms" : 214546,
+      "explicit" : false,
+      "name" : "Rock On",
+      "popularity" : 69
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Unlove You"
+      },
+      "artists" : [ {
+        "name" : "Jennifer Nettles"
+      } ],
+      "duration_ms" : 233680,
+      "explicit" : false,
+      "name" : "Unlove You",
+      "popularity" : 47
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Summer Forever"
+      },
+      "artists" : [ {
+        "name" : "Billy Currington"
+      } ],
+      "duration_ms" : 184506,
+      "explicit" : false,
+      "name" : "It Don't Hurt Like It Used To",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Different For Girls"
+      },
+      "artists" : [ {
+        "name" : "Dierks Bentley"
+      }, {
+        "name" : "Elle King"
+      } ],
+      "duration_ms" : 180360,
+      "explicit" : false,
+      "name" : "Different For Girls",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Livin' The Dream"
+      },
+      "artists" : [ {
+        "name" : "Drake White"
+      } ],
+      "duration_ms" : 189786,
+      "explicit" : false,
+      "name" : "Livin' The Dream",
+      "popularity" : 62
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Brett Young EP"
+      },
+      "artists" : [ {
+        "name" : "Brett Young"
+      } ],
+      "duration_ms" : 187813,
+      "explicit" : false,
+      "name" : "Sleep Without You",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Pawn Shop"
+      },
+      "artists" : [ {
+        "name" : "Brothers Osborne"
+      } ],
+      "duration_ms" : 214386,
+      "explicit" : false,
+      "name" : "21 Summer",
+      "popularity" : 73
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Traveller"
+      },
+      "artists" : [ {
+        "name" : "Chris Stapleton"
+      } ],
+      "duration_ms" : 253200,
+      "explicit" : false,
+      "name" : "Parachute",
+      "popularity" : 68
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Start Here"
+      },
+      "artists" : [ {
+        "name" : "Maddie & Tae"
+      } ],
+      "duration_ms" : 165266,
+      "explicit" : false,
+      "name" : "Sierra",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "About To Get Real"
+      },
+      "artists" : [ {
+        "name" : "Easton Corbin"
+      } ],
+      "duration_ms" : 206453,
+      "explicit" : false,
+      "name" : "Are You With Me",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Lights Come On"
+      },
+      "artists" : [ {
+        "name" : "Jason Aldean"
+      } ],
+      "duration_ms" : 194253,
+      "explicit" : false,
+      "name" : "Lights Come On",
+      "popularity" : 75
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Rewind"
+      },
+      "artists" : [ {
+        "name" : "Rascal Flatts"
+      } ],
+      "duration_ms" : 209280,
+      "explicit" : false,
+      "name" : "I Like The Sound Of That",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Storyteller"
+      },
+      "artists" : [ {
+        "name" : "Carrie Underwood"
+      } ],
+      "duration_ms" : 193333,
+      "explicit" : false,
+      "name" : "Church Bells",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Anything Goes"
+      },
+      "artists" : [ {
+        "name" : "Florida Georgia Line"
+      } ],
+      "duration_ms" : 190640,
+      "explicit" : false,
+      "name" : "Confession",
+      "popularity" : 75
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Noise"
+      },
+      "artists" : [ {
+        "name" : "Kenny Chesney"
+      } ],
+      "duration_ms" : 206533,
+      "explicit" : false,
+      "name" : "Noise",
+      "popularity" : 74
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Montevallo"
+      },
+      "artists" : [ {
+        "name" : "Sam Hunt"
+      } ],
+      "duration_ms" : 229880,
+      "explicit" : false,
+      "name" : "Break Up In A Small Town",
+      "popularity" : 75
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "From The Ground Up"
+      },
+      "artists" : [ {
+        "name" : "Dan + Shay"
+      } ],
+      "duration_ms" : 254293,
+      "explicit" : false,
+      "name" : "From the Ground Up",
+      "popularity" : 76
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "JEKYLL + HYDE"
+      },
+      "artists" : [ {
+        "name" : "Zac Brown Band"
+      } ],
+      "duration_ms" : 205000,
+      "explicit" : false,
+      "name" : "Homegrown",
+      "popularity" : 67
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "American Country Love Song"
+      },
+      "artists" : [ {
+        "name" : "Jake Owen"
+      } ],
+      "duration_ms" : 200640,
+      "explicit" : false,
+      "name" : "American Country Love Song",
+      "popularity" : 77
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tornado"
+      },
+      "artists" : [ {
+        "name" : "Little Big Town"
+      } ],
+      "duration_ms" : 212320,
+      "explicit" : false,
+      "name" : "Pontoon",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "It All Started With A Beer"
+      },
+      "artists" : [ {
+        "name" : "Frankie Ballard"
+      } ],
+      "duration_ms" : 237800,
+      "explicit" : false,
+      "name" : "It All Started with a Beer",
+      "popularity" : 74
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tangled Up"
+      },
+      "artists" : [ {
+        "name" : "Thomas Rhett"
+      } ],
+      "duration_ms" : 227426,
+      "explicit" : false,
+      "name" : "Die A Happy Man",
+      "popularity" : 79
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The First Time"
+      },
+      "artists" : [ {
+        "name" : "Kelsea Ballerini"
+      } ],
+      "duration_ms" : 200040,
+      "explicit" : false,
+      "name" : "Peter Pan",
+      "popularity" : 75
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Stay A Little Longer"
+      },
+      "artists" : [ {
+        "name" : "Brothers Osborne"
+      } ],
+      "duration_ms" : 335266,
+      "explicit" : false,
+      "name" : "Stay A Little Longer",
+      "popularity" : 74
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Maren Morris - EP"
+      },
+      "artists" : [ {
+        "name" : "Maren Morris"
+      } ],
+      "duration_ms" : 197946,
+      "explicit" : false,
+      "name" : "My Church",
+      "popularity" : 71
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Anything Goes"
+      },
+      "artists" : [ {
+        "name" : "Florida Georgia Line"
+      } ],
+      "duration_ms" : 218866,
+      "explicit" : false,
+      "name" : "Anything Goes",
+      "popularity" : 71
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Without a Fight"
+      },
+      "artists" : [ {
+        "name" : "Brad Paisley"
+      }, {
+        "name" : "Demi Lovato"
+      } ],
+      "duration_ms" : 234587,
+      "explicit" : false,
+      "name" : "Without a Fight",
+      "popularity" : 71
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Montevallo"
+      },
+      "artists" : [ {
+        "name" : "Sam Hunt"
+      } ],
+      "duration_ms" : 190240,
+      "explicit" : false,
+      "name" : "House Party",
+      "popularity" : 75
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "William Michael Morgan EP"
+      },
+      "artists" : [ {
+        "name" : "William Michael Morgan"
+      } ],
+      "duration_ms" : 201546,
+      "explicit" : false,
+      "name" : "I Met A Girl",
+      "popularity" : 63
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "True Believers"
+      },
+      "artists" : [ {
+        "name" : "Darius Rucker"
+      } ],
+      "duration_ms" : 298400,
+      "explicit" : false,
+      "name" : "Wagon Wheel",
+      "popularity" : 74
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hometown Girl"
+      },
+      "artists" : [ {
+        "name" : "Josh Turner"
+      } ],
+      "duration_ms" : 216186,
+      "explicit" : false,
+      "name" : "Hometown Girl",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Summer Forever"
+      },
+      "artists" : [ {
+        "name" : "Billy Currington"
+      } ],
+      "duration_ms" : 188999,
+      "explicit" : false,
+      "name" : "Don't It",
+      "popularity" : 66
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Clare Dunn"
+      },
+      "artists" : [ {
+        "name" : "Clare Dunn"
+      } ],
+      "duration_ms" : 205333,
+      "explicit" : false,
+      "name" : "Tuxedo",
+      "popularity" : 70
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Sundown Heaven Town"
+      },
+      "artists" : [ {
+        "name" : "Tim McGraw"
+      } ],
+      "duration_ms" : 235386,
+      "explicit" : false,
+      "name" : "Shotgun Rider",
+      "popularity" : 65
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Do You Wish It Was Me?"
+      },
+      "artists" : [ {
+        "name" : "Gary Allan"
+      } ],
+      "duration_ms" : 172986,
+      "explicit" : false,
+      "name" : "Do You Wish It Was Me?",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Smoke"
+      },
+      "artists" : [ {
+        "name" : "A Thousand Horses"
+      } ],
+      "duration_ms" : 221360,
+      "explicit" : false,
+      "name" : "Smoke",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tangled Up"
+      },
+      "artists" : [ {
+        "name" : "Thomas Rhett"
+      } ],
+      "duration_ms" : 223253,
+      "explicit" : false,
+      "name" : "Vacation",
+      "popularity" : 65
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Chief"
+      },
+      "artists" : [ {
+        "name" : "Eric Church"
+      } ],
+      "duration_ms" : 263386,
+      "explicit" : false,
+      "name" : "Springsteen",
+      "popularity" : 73
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Drunk Like You"
+      },
+      "artists" : [ {
+        "name" : "The Cadillac Three"
+      } ],
+      "duration_ms" : 211226,
+      "explicit" : false,
+      "name" : "Drunk Like You",
+      "popularity" : 71
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "About To Get Real"
+      },
+      "artists" : [ {
+        "name" : "Easton Corbin"
+      } ],
+      "duration_ms" : 199746,
+      "explicit" : false,
+      "name" : "Baby Be My Love Song",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Summer EP"
+      },
+      "artists" : [ {
+        "name" : "Cassadee Pope"
+      } ],
+      "duration_ms" : 189480,
+      "explicit" : false,
+      "name" : "Summer",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Dangerous Man"
+      },
+      "artists" : [ {
+        "name" : "Trace Adkins"
+      } ],
+      "duration_ms" : 221413,
+      "explicit" : false,
+      "name" : "Ladies Love Country Boys",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Lawn Chair Lazy"
+      },
+      "artists" : [ {
+        "name" : "James Barker Band"
+      } ],
+      "duration_ms" : 195160,
+      "explicit" : false,
+      "name" : "Lawn Chair Lazy",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bronco"
+      },
+      "artists" : [ {
+        "name" : "Canaan Smith"
+      } ],
+      "duration_ms" : 156612,
+      "explicit" : false,
+      "name" : "Hole In A Bottle",
+      "popularity" : 60
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Heartbreak Song"
+      },
+      "artists" : [ {
+        "name" : "Mickey Guyton"
+      } ],
+      "duration_ms" : 207546,
+      "explicit" : false,
+      "name" : "Heartbreak Song",
+      "popularity" : 47
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Kill The Lights"
+      },
+      "artists" : [ {
+        "name" : "Luke Bryan"
+      }, {
+        "name" : "Karen Fairchild"
+      } ],
+      "duration_ms" : 190800,
+      "explicit" : false,
+      "name" : "Home Alone Tonight",
+      "popularity" : 74
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Saltwater Gospel"
+      },
+      "artists" : [ {
+        "name" : "Eli Young Band"
+      } ],
+      "duration_ms" : 188613,
+      "explicit" : false,
+      "name" : "Saltwater Gospel",
+      "popularity" : 41
+    }
+  } ],
+  "total" : 60
+}

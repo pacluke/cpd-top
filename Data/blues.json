@@ -1,0 +1,1270 @@
+{
+  "items" : [ {
+    "track" : {
+      "album" : {
+        "name" : "King Bee"
+      },
+      "artists" : [ {
+        "name" : "Muddy Waters"
+      } ],
+      "duration_ms" : 230893,
+      "explicit" : false,
+      "name" : "I'm a King Bee",
+      "popularity" : 42
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Shake Your Money Maker: The Best Of The Fire Sessions"
+      },
+      "artists" : [ {
+        "name" : "Elmore James"
+      } ],
+      "duration_ms" : 166400,
+      "explicit" : false,
+      "name" : "The Sky Is Crying",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Nina Simone Sings The Blues"
+      },
+      "artists" : [ {
+        "name" : "Nina Simone"
+      } ],
+      "duration_ms" : 170320,
+      "explicit" : false,
+      "name" : "Since I Fell for You - Original Mix",
+      "popularity" : 42
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Taj Mahal"
+      },
+      "artists" : [ {
+        "name" : "Taj Mahal"
+      } ],
+      "duration_ms" : 207413,
+      "explicit" : false,
+      "name" : "She Caught the Katy and Left Me a Mule to Ride",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Texas Flood"
+      },
+      "artists" : [ {
+        "name" : "Stevie Ray Vaughan"
+      }, {
+        "name" : "Double Trouble"
+      } ],
+      "duration_ms" : 166733,
+      "explicit" : false,
+      "name" : "Mary Had a Little Lamb",
+      "popularity" : 7
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Taj Mahal"
+      },
+      "artists" : [ {
+        "name" : "Taj Mahal"
+      } ],
+      "duration_ms" : 177520,
+      "explicit" : false,
+      "name" : "Statesboro Blues",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "T-Bone Blues (US Release)"
+      },
+      "artists" : [ {
+        "name" : "T-Bone Walker"
+      } ],
+      "duration_ms" : 228626,
+      "explicit" : false,
+      "name" : "T-Bone Blues",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Blues Greats: Little Walter"
+      },
+      "artists" : [ {
+        "name" : "Little Walter"
+      } ],
+      "duration_ms" : 158773,
+      "explicit" : false,
+      "name" : "My Babe - Single Version",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "People, Hell & Angels"
+      },
+      "artists" : [ {
+        "name" : "Jimi Hendrix"
+      } ],
+      "duration_ms" : 341800,
+      "explicit" : false,
+      "name" : "Hear My Train A Comin'",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "I Still Do"
+      },
+      "artists" : [ {
+        "name" : "Eric Clapton"
+      } ],
+      "duration_ms" : 306496,
+      "explicit" : false,
+      "name" : "Alabama Woman Blues",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Still Got The Blues"
+      },
+      "artists" : [ {
+        "name" : "Gary Moore"
+      } ],
+      "duration_ms" : 370866,
+      "explicit" : false,
+      "name" : "Still Got The Blues",
+      "popularity" : 54
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Mourning In The Morning (US Release)"
+      },
+      "artists" : [ {
+        "name" : "Otis Rush"
+      } ],
+      "duration_ms" : 147800,
+      "explicit" : false,
+      "name" : "Working Man",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961"
+      },
+      "artists" : [ {
+        "name" : "Magic Sam"
+      } ],
+      "duration_ms" : 176186,
+      "explicit" : false,
+      "name" : "All Your Love",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best of Jimmy Reed"
+      },
+      "artists" : [ {
+        "name" : "Jimmy Reed"
+      } ],
+      "duration_ms" : 161773,
+      "explicit" : false,
+      "name" : "Bright Lights, Big City",
+      "popularity" : 33
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Blues Greats: Little Walter"
+      },
+      "artists" : [ {
+        "name" : "Little Walter"
+      } ],
+      "duration_ms" : 163200,
+      "explicit" : false,
+      "name" : "Last Night - Single Version",
+      "popularity" : 32
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Let's Rock While the Rockin's Good."
+      },
+      "artists" : [ {
+        "name" : "Little Willie John"
+      } ],
+      "duration_ms" : 178493,
+      "explicit" : false,
+      "name" : "You Hurt Me",
+      "popularity" : 33
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Riding With The King"
+      },
+      "artists" : [ {
+        "name" : "Eric Clapton"
+      }, {
+        "name" : "B.B. King"
+      } ],
+      "duration_ms" : 264240,
+      "explicit" : false,
+      "name" : "Riding With The King",
+      "popularity" : 61
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Experience Hendrix: The Best Of Jimi Hendrix"
+      },
+      "artists" : [ {
+        "name" : "Jimi Hendrix"
+      } ],
+      "duration_ms" : 229960,
+      "explicit" : false,
+      "name" : "Red House",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Rock Me Mama - When The Sun Goes Down Series"
+      },
+      "artists" : [ {
+        "name" : "Arthur \"Big Boy\" Crudup"
+      } ],
+      "duration_ms" : 173360,
+      "explicit" : false,
+      "name" : "That's All Right - Remastered 2003",
+      "popularity" : 35
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Complete Imperial Recordings: 1950-1954"
+      },
+      "artists" : [ {
+        "name" : "T-Bone Walker"
+      } ],
+      "duration_ms" : 156933,
+      "explicit" : false,
+      "name" : "Evil Hearted Woman - Alternate Take",
+      "popularity" : 35
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Allman Brothers Band - The Epic Years"
+      },
+      "artists" : [ {
+        "name" : "The Allman Brothers Band"
+      } ],
+      "duration_ms" : 188560,
+      "explicit" : false,
+      "name" : "Midnight Rider",
+      "popularity" : 37
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Blue Horizon Story 1965 - 1970 Vol.1"
+      },
+      "artists" : [ {
+        "name" : "Furry Lewis"
+      } ],
+      "duration_ms" : 276733,
+      "explicit" : false,
+      "name" : "Judge Harsh Blues",
+      "popularity" : 3
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Blue Horizon Story 1965 - 1970 Vol.1"
+      },
+      "artists" : [ {
+        "name" : "Otis Spann"
+      } ],
+      "duration_ms" : 138493,
+      "explicit" : false,
+      "name" : "Can't Do Me No Good",
+      "popularity" : 27
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Blue Horizon Story 1965 - 1970 Vol.1"
+      },
+      "artists" : [ {
+        "name" : "Savoy Brown Blues Band"
+      } ],
+      "duration_ms" : 215933,
+      "explicit" : false,
+      "name" : "Can't Quit You Baby",
+      "popularity" : 26
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Slow Down"
+      },
+      "artists" : [ {
+        "name" : "Keb' Mo'"
+      } ],
+      "duration_ms" : 185400,
+      "explicit" : false,
+      "name" : "Love In Vain",
+      "popularity" : 39
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Skin Deep"
+      },
+      "artists" : [ {
+        "name" : "Buddy Guy"
+      }, {
+        "name" : "Eric Clapton"
+      } ],
+      "duration_ms" : 455880,
+      "explicit" : false,
+      "name" : "Everytime I Sing the Blues",
+      "popularity" : 32
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "King Of The Delta Blues Singers"
+      },
+      "artists" : [ {
+        "name" : "Robert Johnson"
+      } ],
+      "duration_ms" : 150666,
+      "explicit" : false,
+      "name" : "Walkin' Blues",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Gigantes del Blues Vol. 6"
+      },
+      "artists" : [ {
+        "name" : "Jimmy Reed"
+      } ],
+      "duration_ms" : 139786,
+      "explicit" : false,
+      "name" : "Take out Some Insurance",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "I Am The Blues"
+      },
+      "artists" : [ {
+        "name" : "Willie Dixon"
+      } ],
+      "duration_ms" : 216373,
+      "explicit" : false,
+      "name" : "The Little Red Rooster",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Layla And Other Assorted Love Songs (40th Anniversary / 2010 Remastered)"
+      },
+      "artists" : [ {
+        "name" : "Derek & The Dominos"
+      } ],
+      "duration_ms" : 412960,
+      "explicit" : false,
+      "name" : "Have You Ever Loved A Woman? - 40th Anniversary / 2010 Remastered",
+      "popularity" : 35
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Keb' Mo'"
+      },
+      "artists" : [ {
+        "name" : "Keb' Mo'"
+      } ],
+      "duration_ms" : 248533,
+      "explicit" : false,
+      "name" : "Come On In My Kitchen",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Fleetwood Mac"
+      },
+      "artists" : [ {
+        "name" : "Fleetwood Mac"
+      } ],
+      "duration_ms" : 169693,
+      "explicit" : false,
+      "name" : "My Baby's Good To Me",
+      "popularity" : 34
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "At Last - The Best Of"
+      },
+      "artists" : [ {
+        "name" : "Etta James"
+      } ],
+      "duration_ms" : 212706,
+      "explicit" : false,
+      "name" : "The Blues Is My Business",
+      "popularity" : 35
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Live Around The World: The Best Of Junior Wells"
+      },
+      "artists" : [ {
+        "name" : "Junior Wells"
+      } ],
+      "duration_ms" : 409866,
+      "explicit" : false,
+      "name" : "Take Off Your Shoes - Live",
+      "popularity" : 29
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Eric Clapton Blues"
+      },
+      "artists" : [ {
+        "name" : "Derek & The Dominos"
+      } ],
+      "duration_ms" : 411666,
+      "explicit" : false,
+      "name" : "Have You Ever Loved A Woman",
+      "popularity" : 34
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Johnny Otis Show Live At Monterey"
+      },
+      "artists" : [ {
+        "name" : "Big Joe Turner"
+      } ],
+      "duration_ms" : 291040,
+      "explicit" : false,
+      "name" : "Plastic Man - Live",
+      "popularity" : 34
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Shake Your Money Maker: The Best Of The Fire Sessions"
+      },
+      "artists" : [ {
+        "name" : "Elmore James"
+      } ],
+      "duration_ms" : 145706,
+      "explicit" : false,
+      "name" : "Look On Yonder Wall",
+      "popularity" : 37
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Muddy \"Mississippi\" Waters Live (Legacy Edition)"
+      },
+      "artists" : [ {
+        "name" : "Muddy Waters"
+      } ],
+      "duration_ms" : 569933,
+      "explicit" : false,
+      "name" : "Kansas City - Live",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Biggest Thing Since Colossus"
+      },
+      "artists" : [ {
+        "name" : "Otis Spann"
+      }, {
+        "name" : "Fleetwood Mac"
+      } ],
+      "duration_ms" : 182573,
+      "explicit" : false,
+      "name" : "Someday Baby",
+      "popularity" : 30
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Hard Again"
+      },
+      "artists" : [ {
+        "name" : "Muddy Waters"
+      } ],
+      "duration_ms" : 324693,
+      "explicit" : false,
+      "name" : "Mannish Boy",
+      "popularity" : 34
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Super Session"
+      },
+      "artists" : [ {
+        "name" : "Al Kooper"
+      }, {
+        "name" : "Mike Bloomfield"
+      } ],
+      "duration_ms" : 413800,
+      "explicit" : false,
+      "name" : "Albert's Shuffle",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "I'm Ready"
+      },
+      "artists" : [ {
+        "name" : "Muddy Waters"
+      } ],
+      "duration_ms" : 238960,
+      "explicit" : false,
+      "name" : "I'm Your Hoochie Coochie Man",
+      "popularity" : 34
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "My Feeling For the Blues"
+      },
+      "artists" : [ {
+        "name" : "Freddie King"
+      } ],
+      "duration_ms" : 216626,
+      "explicit" : false,
+      "name" : "Stumble",
+      "popularity" : 49
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "King Of The Blues Guitar"
+      },
+      "artists" : [ {
+        "name" : "Albert King"
+      } ],
+      "duration_ms" : 167040,
+      "explicit" : false,
+      "name" : "Born Under A Bad Sign",
+      "popularity" : 56
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "20th Century Masters: The Millennium Collection: The Best Of Howlin' Wolf"
+      },
+      "artists" : [ {
+        "name" : "Howlin' Wolf"
+      } ],
+      "duration_ms" : 186826,
+      "explicit" : false,
+      "name" : "Smokestack Lightnin'",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Tin Pan Alley"
+      },
+      "artists" : [ {
+        "name" : "Magic Slim"
+      } ],
+      "duration_ms" : 322026,
+      "explicit" : false,
+      "name" : "Cold Hearted Woman",
+      "popularity" : 37
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Anthology"
+      },
+      "artists" : [ {
+        "name" : "B.B. King"
+      } ],
+      "duration_ms" : 324266,
+      "explicit" : false,
+      "name" : "The Thrill Is Gone",
+      "popularity" : 47
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Biggest Thing Since Colossus"
+      },
+      "artists" : [ {
+        "name" : "Otis Spann"
+      } ],
+      "duration_ms" : 311933,
+      "explicit" : false,
+      "name" : "Ain't Nobody's Business",
+      "popularity" : 31
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Born To Play Guitar"
+      },
+      "artists" : [ {
+        "name" : "Buddy Guy"
+      } ],
+      "duration_ms" : 270280,
+      "explicit" : false,
+      "name" : "Whiskey, Beer & Wine",
+      "popularity" : 42
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "An Evening With The Allman Brothers Band"
+      },
+      "artists" : [ {
+        "name" : "The Allman Brothers Band"
+      } ],
+      "duration_ms" : 314173,
+      "explicit" : false,
+      "name" : "Midnight Blues - Live",
+      "popularity" : 37
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Real... Blues Collection"
+      },
+      "artists" : [ {
+        "name" : "Johnny \"Guitar\" Watson"
+      } ],
+      "duration_ms" : 191840,
+      "explicit" : false,
+      "name" : "Unchain My Heart",
+      "popularity" : 32
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Biggest Thing Since Colossus"
+      },
+      "artists" : [ {
+        "name" : "Otis Spann"
+      }, {
+        "name" : "Fleetwood Mac"
+      } ],
+      "duration_ms" : 318933,
+      "explicit" : false,
+      "name" : "My Love Depends On You",
+      "popularity" : 29
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "I Am The Blues"
+      },
+      "artists" : [ {
+        "name" : "Willie Dixon"
+      } ],
+      "duration_ms" : 255226,
+      "explicit" : false,
+      "name" : "You Shook Me",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "See the Light"
+      },
+      "artists" : [ {
+        "name" : "The Jeff Healey Band"
+      } ],
+      "duration_ms" : 339600,
+      "explicit" : false,
+      "name" : "Blue Jean Blues",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Mr. Wonderful"
+      },
+      "artists" : [ {
+        "name" : "Fleetwood Mac"
+      } ],
+      "duration_ms" : 256666,
+      "explicit" : false,
+      "name" : "I've Lost My Baby",
+      "popularity" : 32
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Complete Blue Horizon Sessions"
+      },
+      "artists" : [ {
+        "name" : "Chicken Shack"
+      } ],
+      "duration_ms" : 193920,
+      "explicit" : false,
+      "name" : "I'd Rather Go Blind",
+      "popularity" : 39
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Pious Bird Of Good Omen"
+      },
+      "artists" : [ {
+        "name" : "Fleetwood Mac"
+      } ],
+      "duration_ms" : 170466,
+      "explicit" : false,
+      "name" : "Black Magic Woman",
+      "popularity" : 4
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Very Best Of Albert King"
+      },
+      "artists" : [ {
+        "name" : "Albert King"
+      } ],
+      "duration_ms" : 166306,
+      "explicit" : false,
+      "name" : "Born Under A Bad Sign",
+      "popularity" : 33
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Johnny Winter"
+      },
+      "artists" : [ {
+        "name" : "Johnny Winter"
+      } ],
+      "duration_ms" : 284080,
+      "explicit" : false,
+      "name" : "I'll Drown In My Tears",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Stevie Ray Vaughan And Double Trouble"
+      },
+      "artists" : [ {
+        "name" : "Stevie Ray Vaughan"
+      } ],
+      "duration_ms" : 147200,
+      "explicit" : false,
+      "name" : "Life by the Drop",
+      "popularity" : 55
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Janis Joplin's Greatest Hits"
+      },
+      "artists" : [ {
+        "name" : "Janis Joplin"
+      } ],
+      "duration_ms" : 238426,
+      "explicit" : false,
+      "name" : "Summertime - (Big Brother & The Holding Company-Janis Joplin)",
+      "popularity" : 57
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Blues of Little Walter"
+      },
+      "artists" : [ {
+        "name" : "Little Walter"
+      } ],
+      "duration_ms" : 154958,
+      "explicit" : false,
+      "name" : "My Babe",
+      "popularity" : 8
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Blues"
+      },
+      "artists" : [ {
+        "name" : "Jimi Hendrix"
+      } ],
+      "duration_ms" : 185853,
+      "explicit" : false,
+      "name" : "Hear My Train A Comin' (Acoustic)",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Johnny Winter"
+      },
+      "artists" : [ {
+        "name" : "Johnny Winter"
+      } ],
+      "duration_ms" : 314880,
+      "explicit" : false,
+      "name" : "Be Careful With a Fool",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Feels Like Rain"
+      },
+      "artists" : [ {
+        "name" : "Buddy Guy"
+      } ],
+      "duration_ms" : 275266,
+      "explicit" : false,
+      "name" : "Feels Like Rain",
+      "popularity" : 45
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Classic John Lee Hooker - The Universal Masters Collection"
+      },
+      "artists" : [ {
+        "name" : "John Lee Hooker"
+      } ],
+      "duration_ms" : 164040,
+      "explicit" : false,
+      "name" : "I'm In The Mood - Single Version",
+      "popularity" : 51
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Born To Play Guitar"
+      },
+      "artists" : [ {
+        "name" : "Buddy Guy"
+      } ],
+      "duration_ms" : 296520,
+      "explicit" : false,
+      "name" : "Born To Play Guitar",
+      "popularity" : 35
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Stevie Ray Vaughan And Double Trouble"
+      },
+      "artists" : [ {
+        "name" : "Stevie Ray Vaughan"
+      } ],
+      "duration_ms" : 551600,
+      "explicit" : false,
+      "name" : "Tin Pan Alley (AKA Roughest Place in Town)",
+      "popularity" : 40
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Classic John Lee Hooker - The Universal Masters Collection"
+      },
+      "artists" : [ {
+        "name" : "John Lee Hooker"
+      } ],
+      "duration_ms" : 183160,
+      "explicit" : false,
+      "name" : "One Bourbon, One Scotch, One Beer",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "High Voltage"
+      },
+      "artists" : [ {
+        "name" : "AC/DC"
+      } ],
+      "duration_ms" : 352040,
+      "explicit" : false,
+      "name" : "The Jack",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Anthology"
+      },
+      "artists" : [ {
+        "name" : "B.B. King"
+      } ],
+      "duration_ms" : 315973,
+      "explicit" : false,
+      "name" : "Ghetto Woman",
+      "popularity" : 45
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Good Time Tonight"
+      },
+      "artists" : [ {
+        "name" : "Big Bill Broonzy"
+      } ],
+      "duration_ms" : 160933,
+      "explicit" : false,
+      "name" : "Merry Go Round Blues",
+      "popularity" : 33
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Very Best of Jimmy Reed"
+      },
+      "artists" : [ {
+        "name" : "Jimmy Reed"
+      } ],
+      "duration_ms" : 139333,
+      "explicit" : false,
+      "name" : "Take Out Some Insurance",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "From His Head to His Heart to His Hands"
+      },
+      "artists" : [ {
+        "name" : "The Electric Flag"
+      } ],
+      "duration_ms" : 46506,
+      "explicit" : false,
+      "name" : "Easy Rider",
+      "popularity" : 33
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "I Am The Blues"
+      },
+      "artists" : [ {
+        "name" : "Willie Dixon"
+      } ],
+      "duration_ms" : 287986,
+      "explicit" : false,
+      "name" : "I'm Your Hoochie Coochie Man",
+      "popularity" : 34
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Real... Blues Collection"
+      },
+      "artists" : [ {
+        "name" : "Sonny Boy Williamson II"
+      } ],
+      "duration_ms" : 193813,
+      "explicit" : false,
+      "name" : "Sloppy Drunk Blues",
+      "popularity" : 32
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Best Of Freddie King: The Shelter Years"
+      },
+      "artists" : [ {
+        "name" : "Freddie King"
+      } ],
+      "duration_ms" : 202600,
+      "explicit" : false,
+      "name" : "Going Down - 2000 - Remastered",
+      "popularity" : 52
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Me and the Blues"
+      },
+      "artists" : [ {
+        "name" : "Joe Williams"
+      } ],
+      "duration_ms" : 182426,
+      "explicit" : false,
+      "name" : "Me and the Blues - Remastered",
+      "popularity" : 32
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential Jimmie Vaughan"
+      },
+      "artists" : [ {
+        "name" : "Jimmie Vaughan"
+      } ],
+      "duration_ms" : 383760,
+      "explicit" : false,
+      "name" : "Dengue Woman Blues",
+      "popularity" : 31
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Real... Blues Collection"
+      },
+      "artists" : [ {
+        "name" : "Joe Williams"
+      } ],
+      "duration_ms" : 167253,
+      "explicit" : false,
+      "name" : "Baby, Please Don't Go",
+      "popularity" : 30
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Cover To Cover"
+      },
+      "artists" : [ {
+        "name" : "The Jeff Healey Band"
+      } ],
+      "duration_ms" : 407200,
+      "explicit" : false,
+      "name" : "As The Years Go Passing By",
+      "popularity" : 36
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Cheap Thrills"
+      },
+      "artists" : [ {
+        "name" : "Big Brother & The Holding Company"
+      } ],
+      "duration_ms" : 567973,
+      "explicit" : false,
+      "name" : "Ball and Chain",
+      "popularity" : 46
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "King Of The Delta Blues Singers"
+      },
+      "artists" : [ {
+        "name" : "Robert Johnson"
+      } ],
+      "duration_ms" : 149560,
+      "explicit" : false,
+      "name" : "Cross Road Blues",
+      "popularity" : 53
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Bessie (Music from the HBO® Film)"
+      },
+      "artists" : [ {
+        "name" : "Bessie Smith"
+      }, {
+        "name" : "Queen Latifah"
+      } ],
+      "duration_ms" : 208520,
+      "explicit" : false,
+      "name" : "Gimme a Pigfoot and a Bottle of Beer - 2015 Remix",
+      "popularity" : 34
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Very Best of Jimmy Reed"
+      },
+      "artists" : [ {
+        "name" : "Jimmy Reed"
+      } ],
+      "duration_ms" : 144426,
+      "explicit" : false,
+      "name" : "Baby What You Want Me To Do",
+      "popularity" : 48
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Anthology"
+      },
+      "artists" : [ {
+        "name" : "B.B. King"
+      } ],
+      "duration_ms" : 157320,
+      "explicit" : false,
+      "name" : "Never Trust a Woman",
+      "popularity" : 41
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "All the Hits and More"
+      },
+      "artists" : [ {
+        "name" : "Little Willie John"
+      } ],
+      "duration_ms" : 136437,
+      "explicit" : false,
+      "name" : "Need Your Love so Bad",
+      "popularity" : 4
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "True to the Blues: The Johnny Winter Story"
+      },
+      "artists" : [ {
+        "name" : "Mike Bloomfield"
+      }, {
+        "name" : "Al Kooper"
+      }, {
+        "name" : "Johnny Winter"
+      } ],
+      "duration_ms" : 656933,
+      "explicit" : false,
+      "name" : "It's My Own Fault - Live",
+      "popularity" : 34
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "True to the Blues: The Johnny Winter Story"
+      },
+      "artists" : [ {
+        "name" : "Johnny Winter"
+      } ],
+      "duration_ms" : 278666,
+      "explicit" : false,
+      "name" : "Hurtin' so Bad",
+      "popularity" : 38
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Very Best of Jimmy Reed"
+      },
+      "artists" : [ {
+        "name" : "Jimmy Reed"
+      } ],
+      "duration_ms" : 156973,
+      "explicit" : false,
+      "name" : "Bright Lights, Big City",
+      "popularity" : 39
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Essential"
+      },
+      "artists" : [ {
+        "name" : "Rory Gallagher"
+      } ],
+      "duration_ms" : 266733,
+      "explicit" : false,
+      "name" : "Loanshark Blues",
+      "popularity" : 26
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Martin Scorsese Presents The Blues: Keb' Mo'"
+      },
+      "artists" : [ {
+        "name" : "Keb' Mo'"
+      } ],
+      "duration_ms" : 248306,
+      "explicit" : false,
+      "name" : "Come On In My Kitchen",
+      "popularity" : 4
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Unforgettable: A Tribute To Dinah Washington"
+      },
+      "artists" : [ {
+        "name" : "Aretha Franklin"
+      } ],
+      "duration_ms" : 208413,
+      "explicit" : false,
+      "name" : "Drinking Again - Remastered",
+      "popularity" : 35
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "The Very Best of John Lee Hooker, King of the Delta Blues"
+      },
+      "artists" : [ {
+        "name" : "John Lee Hooker"
+      } ],
+      "duration_ms" : 153411,
+      "explicit" : false,
+      "name" : "Boom Boom",
+      "popularity" : 8
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "Led Zeppelin III"
+      },
+      "artists" : [ {
+        "name" : "Led Zeppelin"
+      } ],
+      "duration_ms" : 442933,
+      "explicit" : false,
+      "name" : "Since I've Been Loving You",
+      "popularity" : 50
+    }
+  }, {
+    "track" : {
+      "album" : {
+        "name" : "At Fillmore East (Deluxe Edition)"
+      },
+      "artists" : [ {
+        "name" : "The Allman Brothers Band"
+      } ],
+      "duration_ms" : 258200,
+      "explicit" : false,
+      "name" : "Statesboro Blues - Live At The Fillmore East/1971",
+      "popularity" : 31
+    }
+  } ],
+  "total" : 96
+}
