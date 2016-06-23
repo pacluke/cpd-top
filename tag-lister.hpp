@@ -48,27 +48,26 @@ namespace tagl{
 		return genrearray;
 	}
 
-	void getid3(int code){
+	string getid3(int code){
 		int buffer=-1;
 		char genre[100];
 		FILE *fp=fopen("./Data/ID3-genres.txt", "r");
 		if(!fp){
-			cout << "File missing: /Data/ID3-genres.txt" << endl;
-			return;
+			return "File missing: /Data/ID3-genres.txt";
 		}
 		while(buffer<code){
 			fscanf(fp, "%d = %99[^\n]s", &buffer, genre);
 		}
-		cout << genre;
+		return genre;
 	}
 
 	void listall(){
 		int *genrearray=0, ngens;
 		genrearray = getgenres(&ngens);
-		cout << ngens << endl;
+		cout << ngens << " genres found:\n\n";
 
 		for(int i=0; i<ngens; i++){
-			cout << genrearray[i] << "-"; getid3(genrearray[i]); cout << endl;
+			cout << genrearray[i] << "-" << getid3(genrearray[i]) << endl;
 		}
 		free(genrearray);
 	}
