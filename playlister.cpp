@@ -111,12 +111,13 @@ void generate(){
 	while(i<pl.n && i<plsize){
 		file.seekg(pl.tracklist[i].offset*sizeof(track), file.beg);
 		file.read((char *)&x, sizeof(track));
-		cout << x.name << "\n   " << x.album << endl;
+		cout << x.name << " - " << x.popularity << "\n   " << x.album << endl;
 		j=0;
 		while(x.artist[j][0] && j<4){
 			cout << "      " << x.artist[j] << endl;
 			j++;
 		}
+		cout << endl;
 		intbuf=pl.tracklist[i].offset;
 		newpl.write((char *)&intbuf, sizeof(int));
 		i++;
@@ -168,12 +169,13 @@ void load(){
 	while(i<plsize && file.good()){
 		file.seekg(plist[i]*sizeof(track), file.beg);
 		file.read((char *)&x, sizeof(track));
-		cout << i << ". " << x.name << "\n   " << x.album << endl;
+		cout << i << ". " << x.name << " - " << x. popularity << "\n   " << x.album << endl;
 		j=0;
 		while(x.artist[j][0] && j<4){
 			cout << "      " << x.artist[j] << endl;
 			j++;
 		}
+		cout << endl;
 		i++;
 	}
 	file.close();
