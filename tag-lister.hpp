@@ -58,6 +58,11 @@ namespace tagl{
 		while(buffer<code){
 			fscanf(fp, "%d = %99[^\n]s", &buffer, genre);
 		}
+		int i=0;
+		while(genre[i]){
+			i++;
+		}
+		genre[i-1]=0;
 		return genre;
 	}
 

@@ -136,10 +136,15 @@ void load(){
 	cls();
 	cout << "Type the playlist's name: ";
 	cin >> sbuf;
-	play="./Data/Binaries/Playlists/" + sbuf.substr(0, sbuf.find_last_of("\n")) + ".bin";
-	ifstream loaded(play, ios::in | ios::binary);
-	//if(!loaded.is_open())
-		//return;
+	getchar();
+	play="./Data/Binaries/Playlists/" + sbuf + ".bin";
+	ifstream loaded;
+	loaded.open(play, ios::in | ios::binary);
+	if(!loaded.is_open()){
+		cout << "Error loading playlist " << play;
+		getchar();
+		return;
+	}
 	int k=0;
 	while(loaded.good()){
 		loaded.seekg(k*sizeof(int), loaded.beg);
@@ -154,12 +159,13 @@ void load(){
 	string filename = "./Data/Binaries/" + tagl::getid3code(gen) + ".bin";
 	ifstream file(filename, ios::in | ios::binary);
 	if(!file.is_open()){
+		cout << "Error loading musics file";
 		return;
 	}
 	int plsize=plist.size();
 	track x;
 	int j=0, i=0;
-	while(i<plsize){
+	while(i<plsize && file.good()){
 		file.seekg(plist[i]*sizeof(track), file.beg);
 		file.read((char *)&x, sizeof(track));
 		cout << i << ". " << x.name << "\n   " << x.album << endl;
@@ -171,8 +177,10 @@ void load(){
 		i++;
 	}
 	file.close();
-
 	plist.clear();
+
+	cout << "Press 'Enter' to return to main menu";
+	getchar();
 }
 
 int main(){
