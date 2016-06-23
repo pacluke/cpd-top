@@ -7,16 +7,16 @@
 
 namespace tsort{
 	struct greaterpop{
-		bool operator()(const track& a,const track& b){
+		bool operator()(const ramtrack& a,const ramtrack& b){
 			return a.popularity > b.popularity;
 		}
 	};
 	struct minorpop{
-		bool operator()(const track& a,const track& b){
+		bool operator()(const ramtrack& a,const ramtrack& b){
 			return a.popularity < b.popularity;
 		}
 	};
-	void heap(std::vector<track> * tracklist, char order){
+	void heap(std::vector<ramtrack> * tracklist, char order){
 		if(order=='d'){
 			std::make_heap((*tracklist).begin(), (*tracklist).end(), greaterpop());
 			std::sort_heap((*tracklist).begin(), (*tracklist).end(), greaterpop());

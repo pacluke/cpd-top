@@ -61,6 +61,18 @@ namespace tagl{
 		return genre;
 	}
 
+	string getid3code(string gen){
+		char buffer[101]="", code[5]="";
+		FILE *fp=fopen("./Data/ID3-genres.txt", "r");
+		if(!fp){
+			return "File missing: /Data/ID3-genres.txt";
+		}
+		while(gen.compare(buffer) && strcmp(code, "255")){
+			fscanf(fp, "%s = %99[^\n]s ", code, buffer);
+		}
+		return code;
+	}
+
 	void listall(){
 		int *genrearray=0, ngens;
 		genrearray = getgenres(&ngens);

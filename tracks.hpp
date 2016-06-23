@@ -5,11 +5,17 @@
 
 class track{
 public:
-	std::string album;
-	std::string artist[4];
+	char album[256];
+	char artist[4][256];
 	int duration_ms;
 	bool isexplicit;
-	std::string name;
+	char name[256];
+	int popularity;
+};
+
+class ramtrack{
+public:
+	int offset;
 	int popularity;
 };
 

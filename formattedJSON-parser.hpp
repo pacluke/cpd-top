@@ -10,17 +10,27 @@
 using namespace std;
 
 namespace fjson{
-	bool parse(int genre, vector<track> * tracklist){
+	bool parse(int genre, vector<ramtrack> * tracklist){
 		int tracks_read=0, i, pos;
-		string line;
+		string strbuf;
+		string line, output;
 		track trackbuffer;
+		ramtrack ramtrackbuffer;
 
+		output = "./Data/Binaries/" + to_string(genre) + ".bin";
 		line = "./Data/" + to_string(genre) + ".json";
-		ifstream file;
 		
-		file.open(line, ifstream::in);
+		ifstream file(line, ios::in);
 		if(!file.is_open()){
 			cout << "Error opening json file." << endl;
+			return false;
+		}
+		
+		ofstream file2(output, ios::out | ios::binary);
+		if(!file2.is_open()){
+			cout << "Error opening output file." << endl;
+			file.close();
+			return false;
 		}
 		
 
@@ -35,7 +45,9 @@ namespace fjson{
 			getline(file, line);
 			getline(file, line);
 			pos=line.find("name");
-			trackbuffer.album=line.substr(pos+9, line.find_last_of("\"")-(pos+9));
+			strbuf=line.substr(pos+9, line.find_last_of("\"")-(pos+9));
+			copy(strbuf.begin(), strbuf.end(), trackbuffer.album);
+			trackbuffer.album[strbuf.size()] = '\0';
 
 			getline(file, line);
 			getline(file, line);
@@ -45,9 +57,14 @@ namespace fjson{
 				getline(file, line);
 				pos=line.find("name");
 				if(pos!=-1){
-					trackbuffer.artist[i]=line.substr(pos+9, line.find_last_of("\"")-(pos+9));
+					strbuf=line.substr(pos+9, line.find_last_of("\"")-(pos+9));
+					copy(strbuf.begin(), strbuf.end(), trackbuffer.artist[i]);
+					trackbuffer.artist[i][strbuf.size()] = '\0';
 					i++;
 					getline(file, line);
+				}
+				if(i<4){
+					trackbuffer.artist[i][0] = '\0';
 				}
 			}while(pos!=-1);
 
@@ -60,11 +77,16 @@ namespace fjson{
 				trackbuffer.isexplicit=true;
 			getline(file, line);
 			pos=line.find("name");
-			trackbuffer.name=line.substr(pos+9, line.find_last_of("\"")-(pos+9));
+			strbuf=line.substr(pos+9, line.find_last_of("\"")-(pos+9));
+			copy(strbuf.begin(), strbuf.end(), trackbuffer.name);
+			trackbuffer.name[strbuf.size()] = '\0';
 			getline(file, line);
 			pos=line.find("popularity");
 			trackbuffer.popularity=stoi(line.substr(pos+14));
-			(*tracklist).push_back(trackbuffer);
+			file2.write((char *)&trackbuffer, sizeof(track));
+			ramtrackbuffer.popularity=trackbuffer.popularity;
+			ramtrackbuffer.offset=tracks_read;
+			(*tracklist).push_back(ramtrackbuffer);
 			tracks_read++;
 		}
 		if(tracks_read!=stoi(line.substr(pos+9))){
@@ -73,6 +95,7 @@ namespace fjson{
 			return false;
 		}
 		file.close();
+		file2.close();
 		return true;
 	}
 }
